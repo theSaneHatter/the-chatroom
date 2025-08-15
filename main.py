@@ -28,20 +28,20 @@ def form_handler():
     now = datetime.now()
     time_string = now.strftime("%H:%M:%S")
     ip = request.remote_addr
-    usrname = lib.gen_usrname(ip)
+    username = lib.gen_username(ip)
     if len(message) > 420*10:
         print(f'@update: {ip} violated the limit')
-        message = f'user [{usrname}] is spamming the chat. Here is his IP: [{ip}]'
-    full_message = f'{time_string}:[{usrname}]:{message}'
+        message = f'user [{username}] is spamming the chat. Here is his IP: [{ip}]'
+    full_message = f'{time_string}:[{username}]:{message}'
     print(f'@debug:{time_string}:POSTing new message: >{full_message}< to all users, creater: >{ip}<')
     lib.log(message, ip=ip)
-    socketio.emit('new_message', {'message':full_message, 'messageId': messageId})
+    socketio.emit('new_message', {'message':full_message, 'messageId': messageId, 'username':username})
     return jsonify({'response': full_message})
 
 @app.route('/io/prefix')
 def send_prefix():
     ip = request.remote_addr
-    uid = lib.gen_usrname(ip)
+    uid = lib.gen_username(ip)
     return uid
 
 

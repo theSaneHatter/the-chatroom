@@ -14,12 +14,13 @@ console.log('static/main.js is being loaded!');
 
 console.log('static/main.js has been loaded!');
 
-function appendToDiv(msg,divId, messageId=0, color='white'){
+function appendToDiv(msg,divId, messageId=0, color='white', username='None'){
     let msgDiv = document.createElement("div");
     msgDiv.setAttribute('settled','false');
+    console.log('from append to dev: username:'+username)
+    msgDiv.setAttribute('username',username);
     msgDiv.id = messageId;
     msgDiv.style.color = color;
-    console.log(`Debug: color: ${color}`)
     let msgContainer = document.getElementById(divId);
     msgDiv.textContent = msg || "Error: No response";
     //msgDiv.style.background = "rgb(50,0,0)";
@@ -58,10 +59,12 @@ function genTimestamp(){
 
 
 // true if you own message
-function resolveMessage(message, messageId, div='messages'){
-    if (document.getElementById(messageId)){
+function resolveMessage(message, messageId,username, div='messages'){
+    console.log('from resolveMessage:username:'+username+', prefix:'+prefix)
+    console.log(username==prefix)
+    if (document.getElementById(messageId) && username == prefix){
         targetMessage = document.getElementById(messageId).remove()
-        appendToDiv(message, div, messageId=messageId)
+        appendToDiv(message, div, messageId=messageId, username='u getting this?')
         console.log(`Resolved message ${messageId}`)
         return true
     }else{
@@ -70,6 +73,7 @@ function resolveMessage(message, messageId, div='messages'){
     }
 }
 
+// to get prefix
 fetch('/io/prefix')
   .then(response => response.text())
   .then(data => {
@@ -77,6 +81,7 @@ fetch('/io/prefix')
     console.log('prefix set globally:', window.prefix);
   })
   .catch(err => console.error(err));
+
 prefix = window.prefix
 
 const form = document.getElementById("inputForm");
@@ -100,6 +105,8 @@ form.addEventListener("submit", async (event) => {
     let messageToShow = genTimestamp()+':'+`[${prefix}]:`+message
     appendToDiv(messageToShow, 'messages', messageId=messageId, color='rgb(150, 75, 0)')
     console.log('message:'+message);
+    input.value = "";
+    input.focus();
 
 
     // Send JSON to server
@@ -167,9 +174,11 @@ socket.on('new_message', (data) =>{
     console.log(`receved message: >${data}<`)
     console.log('data.message',data.message)
     console.log('Id:', data.messageId)
+    console.log('from on_message:username:', data.username)
     id = data.messageId
     message = data.message
-    resolveMessage(message, id)
+    username = data.username
+    resolveMessage(message, id, username)
 
 })
 

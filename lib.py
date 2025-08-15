@@ -28,24 +28,24 @@ def backup_logs(logfile='./logs/logs.txt', savefile='./logs/saves'):
     return True
 
 
-def gen_usrname(ip):
+def gen_username(ip):
     last3 = str(ip).split('.')[3]
-    usrname = str(last3)
-    usrnameType = 'letters'
-    if usrnameType == 'letters':
+    username = str(last3)
+    usernameType = 'not-letters'
+    if usernameType == 'letters':
         last3 = list(last3)
         last3 = np.array(last3, dtype=int)
         letters = 'abcdefghijklmnopqrstuvwxyz'
         letters = np.array(list(letters))
-        usrname = list(letters[last3])
-        usrname = ''.join(usrname)
+        username = list(letters[last3])
+        username = ''.join(username)
         print(f'Genorated username')
 
-    return usrname
+    return username
 
 def gen_prefix(ip):
-    usrname = gen_usrname(ip)
+    username = gen_username(ip)
     time_format = "%H:%M:%S"
-    prefix = {'usrname':usrname, 'time_format':time_format}
+    prefix = {'username':username, 'time_format':time_format}
 
     return prefix
