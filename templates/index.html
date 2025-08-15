@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+
+  <!-- this container show responses -->
+  <div id="messages">
+    <div class="spacer"></div>
+    first message?
+  </div>
+
+  <form id="inputForm">
+    <input type="text" id="messageInput" message="message" placeholder="|" autocomplete="off" />
+    <button type="submit">Send</button>
+  </form>
+
+  <!--  -->
+
+</body>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+<script src="https://cdn.socket.io/4.7.2/socket.io.min.js"></script>
+<script src="{{ url_for('static', filename='main.js') }}">
+</script>
+<script>
+  //some js here
+  console.log('internal script seems to be working')
+
+
+</script>
+</html>

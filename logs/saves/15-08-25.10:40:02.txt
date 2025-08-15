@@ -1,0 +1,1182 @@
+
+14/08/2516:08:45-->hello<
+
+14/08/2516:12:11-->d<
+
+14/08/2516:12:11-->d<
+
+14/08/2516:12:11-->d<
+
+14/08/2516:12:12-->d<
+
+14/08/2516:12:12-->d<
+
+14/08/2516:12:12-->d<
+
+14/08/2516:12:12-->d<
+
+14/08/2516:12:12-->d<
+
+14/08/2516:12:13-->d<
+
+14/08/2516:12:13-->d<
+
+14/08/2516:12:13-->d<
+
+14/08/2516:12:13-->d<
+
+14/08/2516:12:13-->d<
+
+14/08/2516:12:13-->d<
+
+14/08/2516:12:14-->d<
+
+14/08/2516:12:14-->d<
+
+14/08/2516:12:14-->d<
+
+14/08/2516:12:14-->d<
+
+14/08/2516:12:14-->d<
+
+14/08/2516:12:15-->d<
+
+14/08/2516:12:15-->d<
+
+14/08/2516:12:15-->d<
+
+14/08/2516:12:15-->d<
+
+14/08/2516:12:15-->d<
+
+14/08/2516:12:15-->d<
+
+14/08/2516:12:16-->d<
+
+14/08/2516:12:16-->d<
+
+14/08/2516:12:16-->d<
+
+14/08/2516:12:16-->d<
+
+14/08/2516:12:16-->d<
+
+14/08/2516:12:17-->d<
+
+14/08/2516:12:17-->d<
+
+14/08/2516:12:17-->d<
+
+14/08/2516:12:17-->d<
+
+14/08/2516:12:17-->d<
+
+14/08/2516:12:17-->d<
+
+14/08/2516:12:18-->d<
+
+14/08/2516:12:18-->dd<
+
+14/08/2516:12:18-->d<
+
+14/08/2516:13:44-->user [1] is spamming the chat. Here is his IP: [127.0.0.1]<
+
+14/08/2516:13:51-->#messages {     width: 100%;     border: 1px;     border-color: rgb(256,245,256);     display: flex;     flex-direction: column;     align-items: flex-start;  /* 🧠 Make all child divs align to the left */     justify-content: flex-end; /* 👈 Push messages to the bottom initially */     height: calc(100vh - 20px); /* Leave space for input */     overflow-y: auto;           /* 👈 Enable scrolling */     padding: 10px;     box-sizing: border-box;     align-self: flex-end; /* pushes message to right */     /* height: 100%;      overflow: auto;*/ } #messages > div {     width: 100%     color: (256,256,256);     margin-bottom: 1px;     max-width: 100%;     align-self: flex-start; /* forces left alignment */     white-space: pre-wrap;        /* preserve line breaks, wrap long lines */     text-align: left;     white-space: pre-wrap;      /* Wrap long lines & preserve line breaks */     overflow-wrap: break-word;  /* Break long words/URLs if needed */#messages {     width: 100%;     border: 1px;     border-color: rgb(256,245,256);     display: flex;     flex-direction: column;     align-items: flex-start;  /* 🧠 Make all child divs align to the left */     justify-content: flex-end; /* 👈 Push messages to the bottom initially */     height: calc(100vh - 20px); /* Leave space for input */     overflow-y: auto;           /* 👈 Enable scrolling */     padding: 10px;     box-sizing: border-box;     align-self: flex-end; /* pushes message to right */     /* height: 100%;      overflow: auto;*/ } #messages > div {     width: 100%     color: (256,256,256);     margin-bottom: 1px;     max-width: 100%;     align-self: flex-start; /* forces left alignment */     white-space: pre-wrap;        /* preserve line breaks, wrap long lines */     text-align: left;     white-space: pre-wrap;      /* Wrap long lines & preserve line breaks */     overflow-wrap: break-word;  /* Break long words/URLs if needed */#messages {     width: 100%;     border: 1px;     border-color: rgb(256,245,256);     display: flex;     flex-direction: column;     align-items: flex-start;  /* 🧠 Make all child divs align to the left */     justify-content: flex-end; /* 👈 Push messages to the bottom initially */     height: calc(100vh - 20px); /* Leave space for input */     overflow-y: auto;           /* 👈 Enable scrolling */     padding: 10px;     box-sizing: border-box;     align-self: flex-end; /* pushes message to right */     /* height: 100%;      overflow: auto;*/ } #messages > div {     width: 100%     color: (256,256,256);     margin-bottom: 1px;     max-width: 100%;     align-self: flex-start; /* forces left alignment */     white-space: pre-wrap;        /* preserve line breaks, wrap long lines */     text-align: left;     white-space: pre-wrap;      /* Wrap long lines & preserve line breaks */     overflow-wrap: break-word;  /* Break long words/URLs if needed */<
+
+14/08/2516:16:02-->d<
+
+14/08/2516:16:02-->d<
+
+14/08/2516:16:02-->d<
+
+14/08/2516:16:02-->d<
+
+14/08/2516:16:03-->d<
+
+14/08/2516:16:03-->d<
+
+14/08/2516:16:03-->d<
+
+14/08/2516:16:03-->d<
+
+14/08/2516:16:03-->d<
+
+14/08/2516:16:03-->d<
+
+14/08/2516:16:04-->d<
+
+14/08/2516:16:04-->d<
+
+14/08/2516:16:04-->d<
+
+14/08/2516:16:04-->d<
+
+14/08/2516:16:04-->d<
+
+14/08/2516:16:05-->d<
+
+14/08/2516:16:05-->d<
+
+14/08/2516:16:05-->d<
+
+14/08/2516:16:05-->d<
+
+14/08/2516:16:05-->d<
+
+14/08/2516:16:06-->d<
+
+14/08/2516:16:06-->d<
+
+14/08/2516:16:06-->d<
+
+14/08/2516:16:06-->d<
+
+14/08/2516:16:06-->d<
+
+14/08/2516:16:06-->d<
+
+14/08/2516:16:07-->d<
+
+14/08/2516:16:07-->d<
+
+14/08/2516:16:07-->d<
+
+14/08/2516:16:07-->d<
+
+14/08/2516:16:07-->d<
+
+14/08/2516:16:08-->d<
+
+14/08/2516:16:08-->d<
+
+14/08/2516:16:08-->d<
+
+14/08/2516:16:08-->d<
+
+14/08/2516:16:08-->d<
+
+14/08/2516:16:09-->d<
+
+14/08/2516:16:09-->dd<
+
+14/08/2516:16:09-->d<
+
+14/08/2516:16:09-->d<
+
+14/08/2516:16:09-->d<
+
+14/08/2516:16:10-->d<
+
+14/08/2516:16:10-->d<
+
+14/08/2516:16:10-->d<
+
+14/08/2516:16:10-->d<
+
+14/08/2516:16:10-->d<
+
+14/08/2516:26:25-->d<
+
+14/08/2516:26:25-->d<
+
+14/08/2516:26:25-->d<
+
+14/08/2516:26:26-->d<
+
+14/08/2516:26:26-->d<
+
+14/08/2516:26:26-->d<
+
+14/08/2516:26:26-->d<
+
+14/08/2516:26:27-->d<
+
+14/08/2516:26:27-->d<
+
+14/08/2516:26:27-->d<
+
+14/08/2516:26:27-->d<
+
+14/08/2516:26:27-->d<
+
+14/08/2516:26:28-->d<
+
+14/08/2516:26:28-->d<
+
+14/08/2516:26:28-->d<
+
+14/08/2516:26:28-->d<
+
+14/08/2516:26:29-->d<
+
+14/08/2516:26:29-->d<
+
+14/08/2516:26:29-->d<
+
+14/08/2516:26:29-->d<
+
+14/08/2516:26:29-->d<
+
+14/08/2516:26:30-->d<
+
+14/08/2516:26:30-->d<
+
+14/08/2516:26:30-->d<
+
+14/08/2516:26:30-->d<
+
+14/08/2516:26:31-->d<
+
+14/08/2516:26:31-->d<
+
+14/08/2516:26:53-->d<
+
+14/08/2516:26:53-->d<
+
+14/08/2516:26:53-->d<
+
+14/08/2516:26:53-->d<
+
+14/08/2516:26:53-->d<
+
+14/08/2516:26:54-->d<
+
+14/08/2516:26:54-->d<
+
+14/08/2516:26:54-->d<
+
+14/08/2516:26:54-->d<
+
+14/08/2516:26:55-->d<
+
+14/08/2516:26:55-->d<
+
+14/08/2516:26:55-->d<
+
+14/08/2516:26:55-->d<
+
+14/08/2516:26:55-->d<
+
+14/08/2516:26:56-->d<
+
+14/08/2516:26:56-->d<
+
+14/08/2516:26:56-->d<
+
+14/08/2516:26:56-->d<
+
+14/08/2516:26:57-->d<
+
+14/08/2516:26:57-->d<
+
+14/08/2516:26:57-->d<
+
+14/08/2516:26:57-->d<
+
+14/08/2516:26:57-->d<
+
+14/08/2516:26:58-->d<
+
+14/08/2516:26:58-->d<
+
+14/08/2516:26:58-->d<
+
+14/08/2516:26:58-->d<
+
+14/08/2516:26:59-->d<
+
+14/08/2516:26:59-->d<
+
+14/08/2516:26:59-->d<
+
+14/08/2516:26:59-->d<
+
+14/08/2516:26:59-->d<
+
+14/08/2516:27:00-->d<
+
+14/08/2516:27:00-->d<
+
+14/08/2516:27:00-->d<
+
+14/08/2516:29:52-->d<
+
+14/08/2516:29:52-->d<
+
+14/08/2516:29:53-->d<
+
+14/08/2516:29:53-->d<
+
+14/08/2516:29:53-->d<
+
+14/08/2516:29:53-->d<
+
+14/08/2516:29:53-->d<
+
+14/08/2516:29:54-->d<
+
+14/08/2516:29:54-->d<
+
+14/08/2516:29:54-->d<
+
+14/08/2516:29:55-->d<
+
+14/08/2516:29:55-->d<
+
+14/08/2516:29:55-->d<
+
+14/08/2516:29:55-->d<
+
+14/08/2516:29:55-->d<
+
+14/08/2516:29:55-->d<
+
+14/08/2516:29:56-->d<
+
+14/08/2516:29:56-->d<
+
+14/08/2516:29:56-->d<
+
+14/08/2516:29:56-->d<
+
+14/08/2516:29:56-->d<
+
+14/08/2516:29:56-->d<
+
+14/08/2516:29:57-->d<
+
+14/08/2516:29:57-->d<
+
+14/08/2516:29:57-->dd<
+
+14/08/2516:29:57-->d<
+
+14/08/2516:30:01-->d\d\<
+
+14/08/2516:30:01-->d<
+
+14/08/2516:30:01-->d<
+
+14/08/2516:30:01-->d<
+
+14/08/2516:30:02-->d<
+
+14/08/2516:30:02-->d<
+
+14/08/2516:30:02-->d<
+
+14/08/2516:30:02-->d<
+
+14/08/2516:30:02-->d<
+
+14/08/2516:30:03-->d<
+
+14/08/2516:30:03-->d<
+
+14/08/2516:30:03-->d<
+
+14/08/2516:30:03-->d<
+
+14/08/2516:30:04-->d<
+
+14/08/2516:30:04-->d<
+
+14/08/2516:30:04-->d<
+
+14/08/2516:30:04-->d<
+
+14/08/2516:30:04-->d<
+
+14/08/2516:30:16-->d<
+
+14/08/2516:30:16-->d<
+
+14/08/2516:30:16-->d<
+
+14/08/2516:30:16-->d<
+
+14/08/2516:30:16-->d<
+
+14/08/2516:30:17-->d<
+
+14/08/2516:30:17-->d<
+
+14/08/2516:32:09-->hello?<
+
+14/08/2516:34:31[127.0.0.1]:>d<
+
+14/08/25,16:35:14[127.0.0.1]:>c<
+
+14/08/25,16:35:15[127.0.0.1]:>ss<
+
+14/08/25,16:44:48[127.0.0.1]:>dsa<
+
+14/08/25,16:44:49[127.0.0.1]:>asd<
+
+14/08/25,16:44:49[127.0.0.1]:>as<
+
+14/08/25,16:44:49[127.0.0.1]:>sad<
+
+14/08/25,16:44:49[127.0.0.1]:>sa<
+
+14/08/25,16:44:50[127.0.0.1]:>dsa<
+
+14/08/25,16:44:50[127.0.0.1]:>dsads<
+
+14/08/25,16:44:51[127.0.0.1]:>dsadsaasd<
+
+14/08/25,16:44:51[127.0.0.1]:>d<
+
+14/08/25,16:44:51[127.0.0.1]:>dsa<
+
+14/08/25,16:44:51[127.0.0.1]:>sad<
+
+14/08/25,16:44:52[127.0.0.1]:>as<
+
+14/08/25,16:44:52[127.0.0.1]:>dsa<
+
+14/08/25,16:44:52[127.0.0.1]:>dsa<
+
+14/08/25,16:44:52[127.0.0.1]:>dsa<
+
+14/08/25,16:44:52[127.0.0.1]:>d<
+
+14/08/25,16:44:53[127.0.0.1]:>d<
+
+14/08/25,16:44:53[127.0.0.1]:>d<
+
+14/08/25,16:44:53[127.0.0.1]:>d<
+
+14/08/25,16:44:54[127.0.0.1]:>dsa<
+
+14/08/25,16:44:54[127.0.0.1]:>dsa<
+
+14/08/25,16:44:54[127.0.0.1]:>dsa<
+
+14/08/25,16:44:54[127.0.0.1]:>dsa<
+
+14/08/25,16:44:55[127.0.0.1]:>dsa<
+
+14/08/25,16:44:55[127.0.0.1]:>dsa<
+
+14/08/25,16:44:55[127.0.0.1]:>dsa<
+
+14/08/25,16:44:55[127.0.0.1]:>dsa<
+
+14/08/25,16:44:56[127.0.0.1]:>dsa<
+
+14/08/25,16:46:32[127.0.0.1]:>d<
+
+14/08/25,16:46:32[127.0.0.1]:>d<
+
+14/08/25,16:46:32[127.0.0.1]:>d<
+
+14/08/25,16:46:32[127.0.0.1]:>d<
+
+14/08/25,16:46:32[127.0.0.1]:>d<
+
+14/08/25,16:46:33[127.0.0.1]:>d<
+
+14/08/25,16:46:33[127.0.0.1]:>d<
+
+14/08/25,16:46:33[127.0.0.1]:>d<
+
+14/08/25,16:46:34[127.0.0.1]:>d<
+
+14/08/25,16:46:34[127.0.0.1]:>d<
+
+14/08/25,16:46:34[127.0.0.1]:>d<
+
+14/08/25,16:46:34[127.0.0.1]:>dd<
+
+14/08/25,16:46:34[127.0.0.1]:>d<
+
+14/08/25,16:46:35[127.0.0.1]:>d<
+
+14/08/25,16:46:35[127.0.0.1]:>d<
+
+14/08/25,16:46:35[127.0.0.1]:>d<
+
+14/08/25,16:46:35[127.0.0.1]:>d<
+
+14/08/25,16:46:36[127.0.0.1]:>dd<
+
+14/08/25,16:46:36[127.0.0.1]:>d<
+
+14/08/25,16:46:36[127.0.0.1]:>d<
+
+14/08/25,16:46:36[127.0.0.1]:>d<
+
+14/08/25,16:46:37[127.0.0.1]:>d<
+
+14/08/25,16:46:37[127.0.0.1]:>d<
+
+14/08/25,16:46:37[127.0.0.1]:>d<
+
+14/08/25,16:46:37[127.0.0.1]:>d<
+
+14/08/25,16:46:38[127.0.0.1]:>d<
+
+14/08/25,16:46:38[127.0.0.1]:>d<
+
+14/08/25,16:46:38[127.0.0.1]:>dd<
+
+14/08/25,16:46:38[127.0.0.1]:>d<
+
+14/08/25,16:46:39[127.0.0.1]:>dd<
+14/08/25,16:48:23[127.0.0.1]:>d<
+14/08/25,16:48:23[127.0.0.1]:>d<
+14/08/25,16:48:23[127.0.0.1]:>d<
+14/08/25,16:48:24[127.0.0.1]:>asd<
+14/08/25,16:48:26[127.0.0.1]:>pss<
+14/08/25,16:49:50[127.0.0.1]:>d<
+14/08/25,16:49:51[127.0.0.1]:>d<
+14/08/25,16:49:51[127.0.0.1]:>d<
+14/08/25,16:49:51[127.0.0.1]:>d<
+14/08/25,16:49:51[127.0.0.1]:>d<
+14/08/25,16:49:51[127.0.0.1]:>d<
+14/08/25,16:49:51[127.0.0.1]:>d<
+14/08/25,16:49:52[127.0.0.1]:>d<
+14/08/25,16:49:52[127.0.0.1]:>d<
+14/08/25,16:49:52[127.0.0.1]:>d<
+14/08/25,16:49:52[127.0.0.1]:>d<
+14/08/25,16:49:53[127.0.0.1]:>d<
+14/08/25,16:49:53[127.0.0.1]:>d<
+14/08/25,16:49:53[127.0.0.1]:>d<
+14/08/25,16:49:53[127.0.0.1]:>d<
+14/08/25,16:49:53[127.0.0.1]:>d<
+14/08/25,16:49:54[127.0.0.1]:>d<
+14/08/25,16:49:54[127.0.0.1]:>d<
+14/08/25,16:49:54[127.0.0.1]:>d<
+14/08/25,16:49:54[127.0.0.1]:>d<
+14/08/25,16:49:55[127.0.0.1]:>d<
+14/08/25,16:49:55[127.0.0.1]:>d<
+14/08/25,16:49:55[127.0.0.1]:>dd<
+14/08/25,16:49:55[127.0.0.1]:>d<
+14/08/25,16:49:56[127.0.0.1]:>d<
+14/08/25,16:49:56[127.0.0.1]:>dd<
+14/08/25,16:49:56[127.0.0.1]:>d<
+14/08/25,16:49:57[127.0.0.1]:>d<
+14/08/25,16:49:57[127.0.0.1]:>d<
+14/08/25,16:49:57[127.0.0.1]:>d<
+14/08/25,16:49:57[127.0.0.1]:>d<
+14/08/25,16:49:58[127.0.0.1]:>d<
+14/08/25,16:49:58[127.0.0.1]:>d<
+14/08/25,16:49:58[127.0.0.1]:>d<
+14/08/25,16:49:58[127.0.0.1]:>d<
+14/08/25,16:49:58[127.0.0.1]:>d<
+14/08/25,16:49:59[127.0.0.1]:>dasd<
+14/08/25,16:49:59[127.0.0.1]:>asd<
+14/08/25,16:50:00[127.0.0.1]:>as<
+14/08/25,16:50:00[127.0.0.1]:>aw<
+14/08/25,16:50:00[127.0.0.1]:>da<
+14/08/25,16:50:00[127.0.0.1]:>da<
+14/08/25,16:50:01[127.0.0.1]:>d<
+14/08/25,16:50:01[127.0.0.1]:>x<
+14/08/25,16:50:01[127.0.0.1]:>da<
+14/08/25,16:50:01[127.0.0.1]:>ax<
+14/08/25,16:50:02[127.0.0.1]:>wd<
+14/08/25,16:50:02[127.0.0.1]:>wcdvf<
+14/08/25,16:50:02[127.0.0.1]:>cx<
+14/08/25,16:50:03[127.0.0.1]:>ds<
+14/08/25,16:50:03[127.0.0.1]:>sa<
+14/08/25,16:50:03[127.0.0.1]:>xd<
+14/08/25,16:50:04[127.0.0.1]:>adads<
+14/08/25,16:50:04[127.0.0.1]:>d<
+14/08/25,16:50:04[127.0.0.1]:>sd<
+14/08/25,16:50:05[127.0.0.1]:>sadas<
+14/08/25,16:50:05[127.0.0.1]:>sa<
+14/08/25,16:50:05[127.0.0.1]:>d<
+14/08/25,16:50:05[127.0.0.1]:>d<
+14/08/25,16:50:05[127.0.0.1]:>d<
+14/08/25,16:50:05[127.0.0.1]:>sad<
+14/08/25,16:50:06[127.0.0.1]:>d<
+14/08/25,16:50:08[127.0.0.1]:>d<
+14/08/25,16:56:39[127.0.0.1]:>d<
+14/08/25,16:56:40[127.0.0.1]:>d<
+14/08/25,16:56:40[127.0.0.1]:>d<
+14/08/25,16:56:40[127.0.0.1]:>d<
+14/08/25,16:56:41[127.0.0.1]:>d<
+14/08/25,16:56:41[127.0.0.1]:>d<
+14/08/25,16:56:41[127.0.0.1]:>d<
+14/08/25,16:56:41[127.0.0.1]:>d<
+14/08/25,16:56:41[127.0.0.1]:>d<
+14/08/25,16:56:42[127.0.0.1]:>d<
+14/08/25,16:56:42[127.0.0.1]:>d<
+14/08/25,16:56:42[127.0.0.1]:>d<
+14/08/25,16:56:42[127.0.0.1]:>d<
+14/08/25,16:56:42[127.0.0.1]:>d<
+14/08/25,16:56:43[127.0.0.1]:>d<
+14/08/25,16:56:43[127.0.0.1]:>d<
+14/08/25,16:56:43[127.0.0.1]:>d<
+14/08/25,16:56:43[127.0.0.1]:>d<
+14/08/25,16:56:43[127.0.0.1]:>d<
+14/08/25,16:56:43[127.0.0.1]:>d<
+14/08/25,16:56:44[127.0.0.1]:>d<
+14/08/25,16:56:44[127.0.0.1]:>d<
+14/08/25,16:56:45[127.0.0.1]:>d<
+14/08/25,16:56:45[127.0.0.1]:>d<
+14/08/25,16:56:45[127.0.0.1]:>d<
+14/08/25,16:56:45[127.0.0.1]:>d<
+14/08/25,16:56:46[127.0.0.1]:>d<
+14/08/25,16:56:46[127.0.0.1]:>d<
+14/08/25,16:57:44[127.0.0.1]:>sa<
+14/08/25,16:59:20[127.0.0.1]:>asd<
+14/08/25,16:59:21[127.0.0.1]:>asd<
+14/08/25,16:59:21[127.0.0.1]:>sad<
+14/08/25,16:59:21[127.0.0.1]:>dsa<
+14/08/25,16:59:21[127.0.0.1]:>dsa<
+14/08/25,16:59:22[127.0.0.1]:>ds<
+14/08/25,16:59:22[127.0.0.1]:>dsa<
+14/08/25,16:59:22[127.0.0.1]:>sad<
+14/08/25,16:59:22[127.0.0.1]:>dsa<
+14/08/25,16:59:23[127.0.0.1]:>dsa<
+14/08/25,16:59:23[127.0.0.1]:>dsa<
+14/08/25,16:59:23[127.0.0.1]:>dsa<
+14/08/25,16:59:24[127.0.0.1]:>dsa<
+14/08/25,16:59:24[127.0.0.1]:>dsa<
+14/08/25,16:59:24[127.0.0.1]:>dsa<
+14/08/25,16:59:24[127.0.0.1]:>dsa<
+14/08/25,16:59:25[127.0.0.1]:>dsa<
+14/08/25,16:59:38[127.0.0.1]:>d<
+14/08/25,16:59:39[127.0.0.1]:>d<
+14/08/25,16:59:39[127.0.0.1]:>d<
+14/08/25,16:59:39[127.0.0.1]:>d<
+14/08/25,16:59:40[127.0.0.1]:>d<
+14/08/25,16:59:40[127.0.0.1]:>d<
+14/08/25,16:59:40[127.0.0.1]:>d<
+14/08/25,16:59:40[127.0.0.1]:>d<
+14/08/25,16:59:41[127.0.0.1]:>d<
+14/08/25,16:59:41[127.0.0.1]:>d<
+14/08/25,16:59:41[127.0.0.1]:>d<
+14/08/25,16:59:41[127.0.0.1]:>d<
+14/08/25,17:00:14[127.0.0.1]:>hekko<
+14/08/25,17:00:22[127.0.0.1]:>what poping gamers<
+14/08/25,17:00:31[127.0.0.1]:>lokey though<
+14/08/25,17:03:14[127.0.0.1]:>d<
+14/08/25,17:03:14[127.0.0.1]:>asd<
+14/08/25,17:03:15[127.0.0.1]:>as<
+14/08/25,17:03:15[127.0.0.1]:>as<
+14/08/25,17:03:15[127.0.0.1]:>dasd<
+14/08/25,17:03:16[127.0.0.1]:>asd<
+14/08/25,17:03:16[127.0.0.1]:>sa<
+14/08/25,17:03:16[127.0.0.1]:>d<
+14/08/25,17:03:16[127.0.0.1]:>ad<
+14/08/25,17:03:16[127.0.0.1]:>sa<
+14/08/25,17:03:16[127.0.0.1]:>sa<
+14/08/25,17:03:17[127.0.0.1]:>d<
+14/08/25,17:03:17[127.0.0.1]:>d<
+14/08/25,17:03:17[127.0.0.1]:>sa<
+14/08/25,17:03:17[127.0.0.1]:>sad<
+14/08/25,17:03:17[127.0.0.1]:>sad<
+14/08/25,17:03:18[127.0.0.1]:>sa<
+14/08/25,17:03:18[127.0.0.1]:>sad<
+14/08/25,17:03:18[127.0.0.1]:>sad<
+14/08/25,17:03:18[127.0.0.1]:>as<
+14/08/25,17:03:18[127.0.0.1]:>d<
+14/08/25,17:03:19[127.0.0.1]:>d<
+14/08/25,17:03:19[127.0.0.1]:>sa<
+14/08/25,17:03:19[127.0.0.1]:>sa<
+14/08/25,17:03:19[127.0.0.1]:>d<
+14/08/25,17:03:19[127.0.0.1]:>sad<
+14/08/25,17:03:19[127.0.0.1]:>sa<
+14/08/25,17:03:20[127.0.0.1]:>dsa<
+14/08/25,17:03:20[127.0.0.1]:>d<
+14/08/25,17:03:20[127.0.0.1]:>d<
+14/08/25,17:05:28[127.0.0.1]:>d<
+14/08/25,17:05:28[127.0.0.1]:>sa<
+14/08/25,17:05:29[127.0.0.1]:>s<
+14/08/25,17:05:29[127.0.0.1]:>d<
+14/08/25,17:07:34[127.0.0.1]:>d<
+14/08/25,17:07:35[127.0.0.1]:>d<
+14/08/25,17:07:36[127.0.0.1]:>d<
+14/08/25,17:07:36[127.0.0.1]:>d<
+14/08/25,17:07:36[127.0.0.1]:>d<
+14/08/25,17:07:36[127.0.0.1]:>d<
+14/08/25,17:07:37[127.0.0.1]:>d<
+14/08/25,17:07:37[127.0.0.1]:>d<
+14/08/25,17:07:38[127.0.0.1]:>d<
+14/08/25,17:07:38[127.0.0.1]:>d<
+14/08/25,17:07:38[127.0.0.1]:>d<
+14/08/25,17:07:38[127.0.0.1]:>d<
+14/08/25,17:07:38[127.0.0.1]:>d<
+14/08/25,17:07:39[127.0.0.1]:>d<
+14/08/25,17:07:39[127.0.0.1]:>d<
+14/08/25,17:07:39[127.0.0.1]:>d<
+14/08/25,17:07:39[127.0.0.1]:>d<
+14/08/25,17:07:40[127.0.0.1]:>dd<
+14/08/25,17:07:40[127.0.0.1]:>d<
+14/08/25,17:07:40[127.0.0.1]:>dd<
+14/08/25,17:07:41[127.0.0.1]:>d<
+14/08/25,17:07:41[127.0.0.1]:>d<
+14/08/25,17:07:41[127.0.0.1]:>dd<
+14/08/25,17:07:41[127.0.0.1]:>d<
+14/08/25,17:07:42[127.0.0.1]:>dd<
+14/08/25,17:07:42[127.0.0.1]:>d<
+14/08/25,17:07:42[127.0.0.1]:>d<
+14/08/25,17:07:42[127.0.0.1]:>d<
+14/08/25,17:07:43[127.0.0.1]:>d<
+14/08/25,17:07:43[127.0.0.1]:>d<
+14/08/25,17:07:43[127.0.0.1]:>d<
+14/08/25,17:07:44[127.0.0.1]:>d<
+14/08/25,17:07:44[127.0.0.1]:>d<
+14/08/25,17:07:50[127.0.0.1]:>d<
+14/08/25,17:08:02[127.0.0.1]:>vibe coding for the w we have scrolling gamers<
+14/08/25,17:09:46[127.0.0.1]:>I go back and forth every single day<
+14/08/25,17:18:40[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=1I2o7e-V3CnC_pK8AAAB] connected to socketio, sessionID<
+14/08/25,17:18:41[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=Tf5OEI7daytcu0ACAAAD] connected to socketio, sessionID<
+14/08/25,17:18:55[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=6N7GkLrj7P6l_hplAAAB] connected to socketio, sessionID<
+14/08/25,17:18:56[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=z-Xuzku4f6tZm4RTAAAD] connected to socketio, sessionID<
+14/08/25,17:19:00[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=7YdBtj1PGPPKqb8fAAAB] connected to socketio, sessionID<
+14/08/25,17:19:00[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=ktDb0WVF25PUnDWlAAAD] connected to socketio, sessionID<
+14/08/25,17:19:22[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=V_MkmLeotZIEh1vnAAAB] connected to socketio, sessionID<
+14/08/25,17:19:22[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=njwrVIb0SEH93uYwAAAD] connected to socketio, sessionID<
+14/08/25,17:19:33[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=T5zeGuosmY9sT4X8AAAB] CONNECTED to socketio, sessionID<
+14/08/25,17:19:33[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=XbhMH4_Ovv66xWUZAAAD] CONNECTED to socketio, sessionID<
+14/08/25,17:41:29[127.0.0.1]:>d<
+14/08/25,17:41:47[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=n-9iZMBWNbXetVLaAAAB] CONNECTED to socketio, sessionID<
+14/08/25,17:41:48[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=YORgCOMfcZi_B2kbAAAD] CONNECTED to socketio, sessionID<
+14/08/25,17:41:54[127.0.0.1]:>dd<
+14/08/25,17:41:56[127.0.0.1]:>d<
+14/08/25,17:45:11[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=4BF2ExcW7VEwt2BWAAAC] CONNECTED to socketio, sessionID<
+14/08/25,17:45:11[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=guVssKP863aohkHvAAAD] CONNECTED to socketio, sessionID<
+14/08/25,17:47:09[127.0.0.1]:>d<
+14/08/25,17:51:38[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[guVssKP863aohkHvAAAD] DISCONECTED from socketio, sessionID<
+14/08/25,17:52:02[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=PKJwW2BLf6Xlo1gpAAAF] CONNECTED to socketio, sessionID<
+14/08/25,17:52:06[127.0.0.1]:>{'message': 'd', 'id': '123'}<
+14/08/25,17:53:07[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=FxqSuk9kavu9eOBqAAAC] CONNECTED to socketio, sessionID<
+14/08/25,17:53:07[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=mwfLrhV8pg5gBNvXAAAD] CONNECTED to socketio, sessionID<
+14/08/25,17:55:12[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[mwfLrhV8pg5gBNvXAAAD] DISCONECTED from socketio, sessionID<
+14/08/25,17:55:12[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=PhVfyu28PcwKE3JVAAAF] CONNECTED to socketio, sessionID<
+14/08/25,17:55:16[127.0.0.1]:>d<
+14/08/25,17:55:18[127.0.0.1]:>as<
+14/08/25,17:55:52[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[PhVfyu28PcwKE3JVAAAF] DISCONECTED from socketio, sessionID<
+14/08/25,17:55:53[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=aHZhA70_dNSnrIi4AAAH] CONNECTED to socketio, sessionID<
+14/08/25,17:55:56[127.0.0.1]:>d<
+14/08/25,17:56:16[127.0.0.1]:>d<
+14/08/25,17:56:19[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[aHZhA70_dNSnrIi4AAAH] DISCONECTED from socketio, sessionID<
+14/08/25,17:56:19[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=DjtKvR3s1qeq98SOAAAJ] CONNECTED to socketio, sessionID<
+14/08/25,17:56:21[127.0.0.1]:>d<
+14/08/25,17:57:06[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[DjtKvR3s1qeq98SOAAAJ] DISCONECTED from socketio, sessionID<
+14/08/25,17:57:07[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=ziO2u45tdcNLNtLJAAAL] CONNECTED to socketio, sessionID<
+14/08/25,17:57:09[127.0.0.1]:>d<
+14/08/25,17:59:01[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=UpZbml8AcLu0yOQ2AAAC] CONNECTED to socketio, sessionID<
+14/08/25,17:59:01[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=M0Yly5xR-Ec_NYo9AAAD] CONNECTED to socketio, sessionID<
+14/08/25,18:00:08[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=174McUgfsvwtB1S3AAAB] CONNECTED to socketio, sessionID<
+14/08/25,18:00:09[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=dpTtO6qQGZKnv1AbAAAD] CONNECTED to socketio, sessionID<
+14/08/25,18:00:11[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[dpTtO6qQGZKnv1AbAAAD] DISCONECTED from socketio, sessionID<
+14/08/25,18:00:12[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=xA0JjJnXgc_DQVgXAAAF] CONNECTED to socketio, sessionID<
+14/08/25,18:00:15[127.0.0.1]:>d<
+14/08/25,18:02:09[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[xA0JjJnXgc_DQVgXAAAF] DISCONECTED from socketio, sessionID<
+14/08/25,18:02:10[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=6FJzKjsh3MPSDnxSAAAH] CONNECTED to socketio, sessionID<
+14/08/25,18:02:13[127.0.0.1]:>d<
+14/08/25,18:03:22[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=1ObB1gGQHM3mAYe3AAAB] CONNECTED to socketio, sessionID<
+14/08/25,18:03:23[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=R8XvUb0Qy3xxOFzWAAAD] CONNECTED to socketio, sessionID<
+14/08/25,18:03:24[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[1ObB1gGQHM3mAYe3AAAB] DISCONECTED from socketio, sessionID<
+14/08/25,18:03:25[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=2g30vUccAhG6fuwuAAAF] CONNECTED to socketio, sessionID<
+14/08/25,18:03:28[127.0.0.1]:>d<
+14/08/25,18:04:38[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=fW3xRrChQEBsjnYTAAAB] CONNECTED to socketio, sessionID<
+14/08/25,18:04:39[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=Yxw3P1uL2aJtg0pJAAAD] CONNECTED to socketio, sessionID<
+14/08/25,18:04:39[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=m_BBGsi69D0Ib647AAAF] CONNECTED to socketio, sessionID<
+14/08/25,18:04:42[127.0.0.1]:>d<
+14/08/25,18:05:38[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[fW3xRrChQEBsjnYTAAAB] DISCONECTED from socketio, sessionID<
+14/08/25,18:24:54[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[m_BBGsi69D0Ib647AAAF] DISCONECTED from socketio, sessionID<
+14/08/25,18:24:55[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=xopWXO0jpyXc0c7eAAAH] CONNECTED to socketio, sessionID<
+14/08/25,18:24:58[127.0.0.1]:>d<
+14/08/25,18:37:09[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[xopWXO0jpyXc0c7eAAAH] DISCONECTED from socketio, sessionID<
+14/08/25,18:37:10[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=6GwtXGwcE81i8qaEAAAJ] CONNECTED to socketio, sessionID<
+14/08/25,18:37:12[127.0.0.1]:>d<
+14/08/25,18:41:37[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[6GwtXGwcE81i8qaEAAAJ] DISCONECTED from socketio, sessionID<
+14/08/25,18:41:37[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=NxZYWNdKt8ZMq_BOAAAL] CONNECTED to socketio, sessionID<
+14/08/25,18:41:40[127.0.0.1]:>d<
+14/08/25,18:41:47[127.0.0.1]:>d<
+14/08/25,18:51:25[127.0.0.1]:>penis?<
+14/08/25,18:51:29[127.0.0.1]:>p<
+14/08/25,18:51:30[127.0.0.1]:>ppo<
+14/08/25,18:51:31[127.0.0.1]:>ppop<
+14/08/25,18:53:35[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=pkarY5dNZFyvtHWFAAAC] CONNECTED to socketio, sessionID<
+14/08/25,18:53:35[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=uFkdJ6yeVefifEvAAAAD] CONNECTED to socketio, sessionID<
+14/08/25,19:01:28[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[uFkdJ6yeVefifEvAAAAD] DISCONECTED from socketio, sessionID<
+14/08/25,19:01:29[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=87Hq4SN1095IRxT4AAAF] CONNECTED to socketio, sessionID<
+14/08/25,19:01:34[127.0.0.1]:>d<
+14/08/25,19:02:18[127.0.0.1]:>dd<
+14/08/25,19:03:45[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=FLoWGJqpV0XNMQ-3AAAB] CONNECTED to socketio, sessionID<
+14/08/25,19:03:45[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=ACEkyFls1jozkV7NAAAD] CONNECTED to socketio, sessionID<
+14/08/25,19:05:42[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=zGFv1IaEruUzklxtAAAC] CONNECTED to socketio, sessionID<
+14/08/25,19:05:42[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=8kq_ZssF2tkC4UGOAAAD] CONNECTED to socketio, sessionID<
+14/08/25,19:06:05[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=2nILJUjJSE8aVNVZAAAB] CONNECTED to socketio, sessionID<
+14/08/25,19:06:06[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=1DYPfX_el5XKUHgEAAAD] CONNECTED to socketio, sessionID<
+14/08/25,19:06:10[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=7ikCuNLhuxnY798rAAAC] CONNECTED to socketio, sessionID<
+14/08/25,19:06:10[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=erpI2bB7TiiCjKYEAAAD] CONNECTED to socketio, sessionID<
+14/08/25,19:07:04[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=KGh11czySMdPofYgAAAC] CONNECTED to socketio, sessionID<
+14/08/25,19:07:04[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=X_7kmkDbuSCG23EtAAAD] CONNECTED to socketio, sessionID<
+14/08/25,19:07:25[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=NNUO3_QMoPHY2cc3AAAB] CONNECTED to socketio, sessionID<
+14/08/25,19:07:25[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=_sM-w0BYMEUKr2faAAAD] CONNECTED to socketio, sessionID<
+14/08/25,19:07:37[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=hazGlww-y2_mILwIAAAB] CONNECTED to socketio, sessionID<
+14/08/25,19:07:38[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=yZ9nLhhS7KSKXmDgAAAD] CONNECTED to socketio, sessionID<
+14/08/25,19:08:00[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=OxjoTe6-euOIRy3fAAAB] CONNECTED to socketio, sessionID<
+14/08/25,19:08:00[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=ZwOblzXexzSv3gOcAAAD] CONNECTED to socketio, sessionID<
+14/08/25,19:08:09[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=b2O7WyBmCV0KesrMAAAB] CONNECTED to socketio, sessionID<
+14/08/25,19:08:09[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=UL-wagGGnUNUFTAjAAAD] CONNECTED to socketio, sessionID<
+14/08/25,19:12:59[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=XabamoG2aDyBM1_1AAAC] CONNECTED to socketio, sessionID<
+14/08/25,19:12:59[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=nUsmCCNEsytB61MQAAAD] CONNECTED to socketio, sessionID<
+14/08/25,19:13:18[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=SlfHcWCwUJL_8ph5AAAC] CONNECTED to socketio, sessionID<
+14/08/25,19:13:18[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=Vhn_M_XBHtmYZt7bAAAD] CONNECTED to socketio, sessionID<
+14/08/25,19:29:30[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[SlfHcWCwUJL_8ph5AAAC] DISCONECTED from socketio, sessionID<
+14/08/25,19:29:30[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[Vhn_M_XBHtmYZt7bAAAD] DISCONECTED from socketio, sessionID<
+14/08/25,19:29:31[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=q8AxcMQ_k_mVNmo0AAAG] CONNECTED to socketio, sessionID<
+14/08/25,19:29:31[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=lPYwi2hwe1FbILAmAAAH] CONNECTED to socketio, sessionID<
+14/08/25,19:34:57[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[q8AxcMQ_k_mVNmo0AAAG] DISCONECTED from socketio, sessionID<
+14/08/25,19:34:57[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[lPYwi2hwe1FbILAmAAAH] DISCONECTED from socketio, sessionID<
+14/08/25,19:34:58[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=LPsXsXn2Er0ioTBYAAAK] CONNECTED to socketio, sessionID<
+14/08/25,19:34:58[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=MhGCEN5o_LqqkUUMAAAL] CONNECTED to socketio, sessionID<
+14/08/25,19:36:30[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[MhGCEN5o_LqqkUUMAAAL] DISCONECTED from socketio, sessionID<
+14/08/25,19:36:30[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=TKaIy1MWkOYbPeRQAAAN] CONNECTED to socketio, sessionID<
+14/08/25,19:40:59[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=IqZiwE7iMUJzwoFuAAAC] CONNECTED to socketio, sessionID<
+14/08/25,19:40:59[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=BnygmGnU9qzlDy95AAAD] CONNECTED to socketio, sessionID<
+14/08/25,19:41:13[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=VmDUtOu07eU5DPfDAAAB] CONNECTED to socketio, sessionID<
+14/08/25,19:41:13[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=Ql_eia6-SQX3Gp0NAAAD] CONNECTED to socketio, sessionID<
+14/08/25,19:41:25[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=0zpHsb76d3cBiqeJAAAC] CONNECTED to socketio, sessionID<
+14/08/25,19:41:25[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=5q9FryrrczqdB7VfAAAD] CONNECTED to socketio, sessionID<
+14/08/25,19:43:04[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[5q9FryrrczqdB7VfAAAD] DISCONECTED from socketio, sessionID<
+14/08/25,19:43:05[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=1u8vqSISOpy-GHFlAAAF] CONNECTED to socketio, sessionID<
+14/08/25,19:43:10[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[1u8vqSISOpy-GHFlAAAF] DISCONECTED from socketio, sessionID<
+14/08/25,19:43:18[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=WlMcBOVVCLLFEySCAAAH] CONNECTED to socketio, sessionID<
+14/08/25,19:43:45[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[WlMcBOVVCLLFEySCAAAH] DISCONECTED from socketio, sessionID<
+14/08/25,19:43:45[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=aFx6OiZkzz0QdK2jAAAJ] CONNECTED to socketio, sessionID<
+14/08/25,19:43:52[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[aFx6OiZkzz0QdK2jAAAJ] DISCONECTED from socketio, sessionID<
+14/08/25,19:44:21[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=6qB5TuLhUMol6ZhyAAAB] CONNECTED to socketio, sessionID<
+14/08/25,19:44:30[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=J9Axw416kg_v-ObdAAAB] CONNECTED to socketio, sessionID<
+14/08/25,19:44:48[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=cGRTP89-Y_K9GiWPAAAB] CONNECTED to socketio, sessionID<
+14/08/25,19:45:12[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=TlmPK1rY2Cf0G0BCAAAB] CONNECTED to socketio, sessionID<
+14/08/25,19:45:23[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=xYC5VTnT6VYNcgF5AAAB] CONNECTED to socketio, sessionID<
+14/08/25,19:45:35[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=jPxevon_bCGQqPCKAAAB] CONNECTED to socketio, sessionID<
+14/08/25,19:53:39[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=9bKmD1UV_RRUVrxqAAAD] CONNECTED to socketio, sessionID<
+14/08/25,19:54:19[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[9bKmD1UV_RRUVrxqAAAD] DISCONECTED from socketio, sessionID<
+14/08/25,19:54:20[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=71IGUDDV-RvuGiWYAAAF] CONNECTED to socketio, sessionID<
+14/08/25,19:55:47[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[71IGUDDV-RvuGiWYAAAF] DISCONECTED from socketio, sessionID<
+14/08/25,19:55:47[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=e1oCDXA3xalXS0S-AAAH] CONNECTED to socketio, sessionID<
+14/08/25,19:56:01[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[e1oCDXA3xalXS0S-AAAH] DISCONECTED from socketio, sessionID<
+14/08/25,19:56:02[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=TyVJSCuXX9974ZWGAAAJ] CONNECTED to socketio, sessionID<
+14/08/25,19:56:59[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[TyVJSCuXX9974ZWGAAAJ] DISCONECTED from socketio, sessionID<
+14/08/25,19:58:11[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=i9p9c-meYY9TZgOZAAAL] CONNECTED to socketio, sessionID<
+14/08/25,19:59:14[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[i9p9c-meYY9TZgOZAAAL] DISCONECTED from socketio, sessionID<
+14/08/25,19:59:14[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=tFrCdHaSvOB4eniNAAAN] CONNECTED to socketio, sessionID<
+14/08/25,20:00:32[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[tFrCdHaSvOB4eniNAAAN] DISCONECTED from socketio, sessionID<
+14/08/25,20:04:11[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=JSaX-Lb33ckNLoB7AAAP] CONNECTED to socketio, sessionID<
+14/08/25,20:04:14[127.0.0.1]:>dd<
+14/08/25,20:06:27[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[JSaX-Lb33ckNLoB7AAAP] DISCONECTED from socketio, sessionID<
+14/08/25,20:06:44[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=Gi_guekdYw1_ILnXAAAR] CONNECTED to socketio, sessionID<
+14/08/25,20:06:48[127.0.0.1]:>balls<
+14/08/25,20:08:49[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[Gi_guekdYw1_ILnXAAAR] DISCONECTED from socketio, sessionID<
+14/08/25,20:08:49[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=ffNuOWzYhAB-GoZjAAAT] CONNECTED to socketio, sessionID<
+14/08/25,20:09:11[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[ffNuOWzYhAB-GoZjAAAT] DISCONECTED from socketio, sessionID<
+14/08/25,20:09:11[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=Ti-hS9AgQC-eYjvBAAAV] CONNECTED to socketio, sessionID<
+14/08/25,20:09:14[127.0.0.1]:>d<
+14/08/25,20:10:06[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[Ti-hS9AgQC-eYjvBAAAV] DISCONECTED from socketio, sessionID<
+14/08/25,20:10:06[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=uEjlGlBWY2Bf0vuKAAAX] CONNECTED to socketio, sessionID<
+14/08/25,20:10:09[127.0.0.1]:>d<
+14/08/25,20:10:38[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[uEjlGlBWY2Bf0vuKAAAX] DISCONECTED from socketio, sessionID<
+14/08/25,20:10:38[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=y2-EAkactonQzVMoAAAZ] CONNECTED to socketio, sessionID<
+14/08/25,20:11:24[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[y2-EAkactonQzVMoAAAZ] DISCONECTED from socketio, sessionID<
+14/08/25,20:11:25[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=PU6ca8lv5NnmbN-lAAAb] CONNECTED to socketio, sessionID<
+14/08/25,20:13:30[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[PU6ca8lv5NnmbN-lAAAb] DISCONECTED from socketio, sessionID<
+14/08/25,20:13:31[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=LktC7EZQp8ja3oVmAAAd] CONNECTED to socketio, sessionID<
+14/08/25,20:13:46[127.0.0.1]:>ads<
+14/08/25,20:13:52[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[LktC7EZQp8ja3oVmAAAd] DISCONECTED from socketio, sessionID<
+14/08/25,20:13:52[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=ZKQyHCDGLzKXeSifAAAf] CONNECTED to socketio, sessionID<
+14/08/25,20:13:55[127.0.0.1]:>sadsa<
+14/08/25,20:16:11[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[ZKQyHCDGLzKXeSifAAAf] DISCONECTED from socketio, sessionID<
+14/08/25,20:16:12[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=Q7a_deOOdAY89OfvAAAh] CONNECTED to socketio, sessionID<
+14/08/25,20:16:14[127.0.0.1]:>d<
+14/08/25,20:16:18[127.0.0.1]:>penis?<
+14/08/25,20:16:28[127.0.0.1]:>how long?<
+14/08/25,20:16:45[127.0.0.1]:>guys is work awesome<
+14/08/25,20:17:32[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[Q7a_deOOdAY89OfvAAAh] DISCONECTED from socketio, sessionID<
+14/08/25,20:17:33[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=X4Y8A9qovqNCKDMlAAAj] CONNECTED to socketio, sessionID<
+14/08/25,20:17:43[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[X4Y8A9qovqNCKDMlAAAj] DISCONECTED from socketio, sessionID<
+14/08/25,20:17:43[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=SsQZO1axJ-ZAWHLdAAAl] CONNECTED to socketio, sessionID<
+14/08/25,20:18:07[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[SsQZO1axJ-ZAWHLdAAAl] DISCONECTED from socketio, sessionID<
+14/08/25,20:18:07[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=kP6oj_Czd_5ovNCfAAAn] CONNECTED to socketio, sessionID<
+14/08/25,20:18:16[127.0.0.1]:>huge dick?<
+14/08/25,20:18:38[127.0.0.1]:>das<
+14/08/25,20:18:39[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=PQ1cALmuQ7MF2z6wAAAB] CONNECTED to socketio, sessionID<
+14/08/25,20:18:39[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=r8awoz5yvPAu0Zx_AAAD] CONNECTED to socketio, sessionID<
+14/08/25,20:18:49[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=PbavN2TVJyslVjYrAAAB] CONNECTED to socketio, sessionID<
+14/08/25,20:18:51[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=dDFKQZc711XOJrQ1AAAD] CONNECTED to socketio, sessionID<
+14/08/25,20:18:51[127.0.0.1]:>sad<
+14/08/25,20:18:53[127.0.0.1]:>as<
+14/08/25,20:18:53[127.0.0.1]:>s<
+14/08/25,20:18:54[127.0.0.1]:>w<
+14/08/25,20:18:54[127.0.0.1]:>d<
+14/08/25,20:18:54[127.0.0.1]:>s<
+14/08/25,20:18:55[127.0.0.1]:>a<
+14/08/25,20:18:55[127.0.0.1]:>w<
+14/08/25,20:18:56[127.0.0.1]:>sd<
+14/08/25,20:18:56[127.0.0.1]:>as<
+14/08/25,20:18:56[127.0.0.1]:>sd<
+14/08/25,20:18:57[127.0.0.1]:>das<
+14/08/25,20:18:58[127.0.0.1]:>dsa<
+14/08/25,20:19:15[127.0.0.1]:>the text color indacater works!<
+14/08/25,20:22:24[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=nSgyhx6hhm6aVNIXAAAB] CONNECTED to socketio, sessionID<
+14/08/25,20:22:25[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=bscZfx_YrNi5MwtMAAAD] CONNECTED to socketio, sessionID<
+14/08/25,20:23:22[0.0.0.0]:>Client [ip=[]192.168.0.15, sessionID=Uog6NmgcqAcLaYjhAAAB] CONNECTED to socketio, sessionID<
+14/08/25,20:23:22[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=XNk5p1Hh-7exqYCtAAAD] CONNECTED to socketio, sessionID<
+14/08/25,20:23:23[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=L9TBA2pNoEZhjeOKAAAF] CONNECTED to socketio, sessionID<
+14/08/25,20:23:29[192.168.0.15]:>are we rolling chat?<
+14/08/25,20:23:38[192.168.0.15]:>gamers this is cannon<
+14/08/25,20:23:47[192.168.0.15]:>this is me in my phone debugging<
+14/08/25,20:24:00[0.0.0.0]:>Client [ip=[]192.168.0.30, sessionID=NN6_Epy_uzqvyoADAAAH] CONNECTED to socketio, sessionID<
+14/08/25,20:24:17[192.168.0.30]:>what poping gamers?<
+14/08/25,20:24:32[192.168.0.30]:>d<
+14/08/25,20:24:41[0.0.0.0]:>Client [ip=[192.168.0.15], sessionID=[Uog6NmgcqAcLaYjhAAAB] DISCONECTED from socketio, sessionID<
+14/08/25,20:25:41[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[L9TBA2pNoEZhjeOKAAAF] DISCONECTED from socketio, sessionID<
+14/08/25,20:25:42[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=7Lc6tP2JtpZBp6-KAAAJ] CONNECTED to socketio, sessionID<
+14/08/25,20:25:44[127.0.0.1]:>d<
+14/08/25,20:25:45[127.0.0.1]:>d<
+14/08/25,20:25:46[127.0.0.1]:>d<
+14/08/25,20:25:46[127.0.0.1]:>d<
+14/08/25,20:25:47[127.0.0.1]:>d<
+14/08/25,20:25:48[127.0.0.1]:>d<
+14/08/25,20:25:48[127.0.0.1]:>d<
+14/08/25,20:25:49[127.0.0.1]:>d<
+14/08/25,20:25:49[127.0.0.1]:>d<
+14/08/25,20:25:49[127.0.0.1]:>d<
+14/08/25,20:25:50[127.0.0.1]:>d<
+14/08/25,20:25:50[127.0.0.1]:>d<
+14/08/25,20:25:50[127.0.0.1]:>d<
+14/08/25,20:25:51[127.0.0.1]:>d<
+14/08/25,20:25:51[127.0.0.1]:>d<
+14/08/25,20:25:51[127.0.0.1]:>d<
+14/08/25,20:25:51[127.0.0.1]:>d<
+14/08/25,20:25:52[127.0.0.1]:>d<
+14/08/25,20:25:52[127.0.0.1]:>d<
+14/08/25,20:25:52[127.0.0.1]:>d<
+14/08/25,20:25:52[127.0.0.1]:>d<
+14/08/25,20:26:06[0.0.0.0]:>Client [ip=[192.168.0.30], sessionID=[NN6_Epy_uzqvyoADAAAH] DISCONECTED from socketio, sessionID<
+14/08/25,20:26:06[0.0.0.0]:>Client [ip=[]192.168.0.30, sessionID=2OKpxnkILociO8n5AAAL] CONNECTED to socketio, sessionID<
+14/08/25,20:26:09[192.168.0.30]:>kk<
+14/08/25,21:05:38[0.0.0.0]:>Client [ip=[]192.168.0.15, sessionID=yR0iuEUooqQ-JazpAAAN] CONNECTED to socketio, sessionID<
+14/08/25,21:06:04[0.0.0.0]:>Client [ip=[192.168.0.15], sessionID=[yR0iuEUooqQ-JazpAAAN] DISCONECTED from socketio, sessionID<
+15/08/25,00:38:10[0.0.0.0]:>Client [ip=[192.168.0.30], sessionID=[2OKpxnkILociO8n5AAAL] DISCONECTED from socketio, sessionID<
+15/08/25,02:38:23[0.0.0.0]:>Client [ip=[]192.168.0.30, sessionID=eZg4enT8eziFlz1OAAAQ] CONNECTED to socketio, sessionID<
+15/08/25,03:38:25[0.0.0.0]:>Client [ip=[192.168.0.30], sessionID=[eZg4enT8eziFlz1OAAAQ] DISCONECTED from socketio, sessionID<
+15/08/25,06:39:06[0.0.0.0]:>Client [ip=[]192.168.0.30, sessionID=pfnmWvFp66fYzLfEAAAS] CONNECTED to socketio, sessionID<
+15/08/25,07:39:20[0.0.0.0]:>Client [ip=[192.168.0.30], sessionID=[pfnmWvFp66fYzLfEAAAS] DISCONECTED from socketio, sessionID<
+15/08/25,08:32:11[127.0.0.1]:>k<
+15/08/25,09:00:33[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[7Lc6tP2JtpZBp6-KAAAJ] DISCONECTED from socketio, sessionID<
+15/08/25,09:00:33[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[XNk5p1Hh-7exqYCtAAAD] DISCONECTED from socketio, sessionID<
+15/08/25,09:00:34[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=asrhw_9XGBeNdNLgAAAU] CONNECTED to socketio, sessionID<
+15/08/25,09:00:34[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=NDORx8pMrviE6YFcAAAW] CONNECTED to socketio, sessionID<
+15/08/25,09:05:36[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=1FQUqJfKuPINhTCdAAAB] CONNECTED to socketio, sessionID<
+15/08/25,09:05:36[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=49DWV-q2Bddp_lMZAAAD] CONNECTED to socketio, sessionID<
+15/08/25,09:08:51[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=RYRFuXnd6eY80JBWAAAB] CONNECTED to socketio, sessionID<
+15/08/25,09:08:56[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=Yx_cjDwkO3iDftL3AAAD] CONNECTED to socketio, sessionID<
+15/08/25,09:08:59[0.0.0.0]:>Client [ip=[]10.39.126.103, sessionID=sNODDZn6cW-zcrJ4AAAF] CONNECTED to socketio, sessionID<
+15/08/25,09:09:19[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[RYRFuXnd6eY80JBWAAAB] DISCONECTED from socketio, sessionID<
+15/08/25,09:09:19[0.0.0.0]:>Client [ip=[]10.39.126.61, sessionID=SRlt5IMGy5UygqGEAAAH] CONNECTED to socketio, sessionID<
+15/08/25,09:09:20[10.39.126.103]:>why do you use emacs if you're just going to create a markdown file<
+15/08/25,09:09:38[10.39.126.61]:>emacs is good for mkd?<
+15/08/25,09:09:46[10.39.126.103]:>use vim atp<
+15/08/25,09:09:49[10.39.126.103]:>it's lighter and easier<
+15/08/25,09:10:02[10.39.126.103]:>or use org mode<
+15/08/25,09:10:07[10.39.126.61]:>dont perticularly wanna learn the keybinds<
+15/08/25,09:10:14[10.39.126.103]:>wait do you not use evil mode<
+15/08/25,09:10:17[10.39.126.61]:>emacs lets me mx type commands<
+15/08/25,09:10:26[10.39.126.61]:>sometimes<
+15/08/25,09:10:29[10.39.126.61]:>normal mode<
+15/08/25,09:11:03[10.39.126.103]:>what<
+15/08/25,09:11:07[10.39.126.103]:>vim won the vim-emacs wars<
+15/08/25,09:11:09[10.39.126.103]:>don't you know<
+15/08/25,09:11:41[10.39.126.103]:>how did you set up the sending thingy<
+15/08/25,09:13:01[10.39.126.61]:>ill explain during eng<
+15/08/25,09:13:20[10.39.126.103]:>have you done some of the drafting assignment<
+15/08/25,10:12:06[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[Yx_cjDwkO3iDftL3AAAD] DISCONECTED from socketio, sessionID<
+15/08/25,10:12:06[0.0.0.0]:>Client [ip=[10.39.126.103], sessionID=[sNODDZn6cW-zcrJ4AAAF] DISCONECTED from socketio, sessionID<
+15/08/25,10:12:08[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=uf7fxRETsRPjKkG8AAAJ] CONNECTED to socketio, sessionID<
+15/08/25,10:12:10[0.0.0.0]:>Client [ip=[]10.39.126.61, sessionID=Ob6fMtBk5M0gpLfTAAAL] CONNECTED to socketio, sessionID<
+15/08/25,10:12:13[0.0.0.0]:>Client [ip=[10.39.126.61], sessionID=[SRlt5IMGy5UygqGEAAAH] DISCONECTED from socketio, sessionID<
+15/08/25,10:12:32[10.39.126.61]:>not really<
+15/08/25,10:13:13[10.39.126.61]:>/users<
+15/08/25,10:16:08[10.39.126.61]:>hello?<
+15/08/25,10:18:40[0.0.0.0]:>Client [ip=[]10.39.120.198, sessionID=qrwXO-Bn5h0BUY13AAAN] CONNECTED to socketio, sessionID<
+15/08/25,10:20:49[10.39.120.198]:>Hello?<
+15/08/25,10:20:59[0.0.0.0]:>Client [ip=[]10.39.124.147, sessionID=kHoYVHRDS9Zbl1V3AAAP] CONNECTED to socketio, sessionID<
+15/08/25,10:21:05[10.39.126.61]:>hello?<
+15/08/25,10:21:08[10.39.124.147]:>hey<
+15/08/25,10:21:20[10.39.124.147]:>does it have a notification thing yet for when new users join<
+15/08/25,10:21:27[10.39.126.61]:>nope<
+15/08/25,10:21:30[10.39.124.147]:>tragic<
+15/08/25,10:21:42[10.39.120.198]:>hi<
+15/08/25,10:21:53[10.39.124.147]:>how many people do we have on rn<
+15/08/25,10:21:58[10.39.126.61]:>yeah maybe ill start working on chat cammands also<
+15/08/25,10:22:01[10.39.126.61]:>3<
+15/08/25,10:22:05[10.39.126.61]:>im pretty sure<
+15/08/25,10:22:08[10.39.120.198]:>wait<
+15/08/25,10:22:19[10.39.124.147]:>do you have some sort of counter for it<
+15/08/25,10:22:19[0.0.0.0]:>Client [ip=[]10.39.124.147, sessionID=v3WZtPzBy9-7TN5IAAAE] CONNECTED to socketio, sessionID<
+15/08/25,10:22:19[0.0.0.0]:>Client [ip=[]10.39.120.198, sessionID=IZZoouDAU928qdA0AAAF] CONNECTED to socketio, sessionID<
+15/08/25,10:22:19[0.0.0.0]:>Client [ip=[]10.39.126.61, sessionID=dcVX5V89HYyxqHeLAAAG] CONNECTED to socketio, sessionID<
+15/08/25,10:22:19[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=QSPlJNn59cDuvHUcAAAH] CONNECTED to socketio, sessionID<
+15/08/25,10:22:26[10.39.120.198]:>yeah seems like it<
+15/08/25,10:22:48[10.39.124.147]:>working?<
+15/08/25,10:22:50[10.39.126.61]:>also how do you like the message confermation?<
+15/08/25,10:22:56[10.39.120.198]:>nice<
+15/08/25,10:23:02[10.39.124.147]:>its working pretty well<
+15/08/25,10:23:05[10.39.120.198]:>better than messages just dusapearing<
+15/08/25,10:23:07[10.39.126.61]:>yes im jus showing off the confermation<
+15/08/25,10:23:11[10.39.126.61]:>ong<
+15/08/25,10:23:13[10.39.120.198]:>*disapearing<
+15/08/25,10:23:16[0.0.0.0]:>Client [ip=[]10.39.120.198, sessionID=ESUQ3kplPIvYVojDAAAB] CONNECTED to socketio, sessionID<
+15/08/25,10:23:16[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=lPt7O-pm1mqfUU0YAAAD] CONNECTED to socketio, sessionID<
+15/08/25,10:23:17[0.0.0.0]:>Client [ip=[]10.39.124.147, sessionID=kz1NtmAVIVT5G5t2AAAF] CONNECTED to socketio, sessionID<
+15/08/25,10:23:18[0.0.0.0]:>Client [ip=[]10.39.126.61, sessionID=uoxaZudWpjs4OL0mAAAH] CONNECTED to socketio, sessionID<
+15/08/25,10:23:19[10.39.124.147]:>one of my older ones isnt sending, but other than that its working pretty well<
+15/08/25,10:23:22[10.39.120.198]:>im suffering from a huge buffer tho<
+15/08/25,10:23:27[10.39.126.61]:>d<
+15/08/25,10:23:27[10.39.126.61]:>dd<
+15/08/25,10:23:28[10.39.126.61]:>ddd<
+15/08/25,10:23:36[10.39.126.61]:>interesting<
+15/08/25,10:23:53[10.39.126.61]:>i added an artifical delay-- removed now tho<
+15/08/25,10:23:58[10.39.120.198]:>ok lets see<
+15/08/25,10:24:01[0.0.0.0]:>Client [ip=[]10.39.124.147, sessionID=u6Ko8xgQZ6LG8du_AAAB] CONNECTED to socketio, sessionID<
+15/08/25,10:24:01[0.0.0.0]:>Client [ip=[]10.39.126.61, sessionID=90IGJmWrqMVc_TadAAAD] CONNECTED to socketio, sessionID<
+15/08/25,10:24:01[0.0.0.0]:>Client [ip=[]10.39.120.198, sessionID=qDalNZwT0oCNQ_VHAAAF] CONNECTED to socketio, sessionID<
+15/08/25,10:24:02[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=2oxpGOSOIoprHVy2AAAH] CONNECTED to socketio, sessionID<
+15/08/25,10:24:05[10.39.120.198]:>still a lil slow<
+15/08/25,10:24:08[10.39.120.198]:>but way faster<
+15/08/25,10:24:09[10.39.126.61]:>also what buildings are you all in?<
+15/08/25,10:24:11[10.39.120.198]:>T<
+15/08/25,10:24:23[10.39.124.147]:>you?<
+15/08/25,10:24:27[10.39.126.61]:>same<
+15/08/25,10:24:31[10.39.124.147]:>actually your in comp right?<
+15/08/25,10:24:46[10.39.120.198]:>@61 i know where you are<
+15/08/25,10:24:59[10.39.120.198]:>OH SHIT<
+15/08/25,10:25:01[10.39.126.61]:>yeah is 147 in lang?<
+15/08/25,10:25:02[10.39.120.198]:>SCROLLLING<
+15/08/25,10:25:05[10.39.120.198]:>LETS GOOOOOOO<
+15/08/25,10:25:08[10.39.124.147]:>look down the hallway to t8<
+15/08/25,10:25:21[10.39.126.61]:>0__________-<
+15/08/25,10:25:45[0.0.0.0]:>Client [ip=[]10.39.16.242, sessionID=VNz-veP6oWICRw3XAAAJ] CONNECTED to socketio, sessionID<
+15/08/25,10:25:47[10.39.124.147]:>itll be funny i swear<
+15/08/25,10:25:48[10.39.16.242]:>hey guys<
+15/08/25,10:25:57[10.39.120.198]:>oh shi<
+15/08/25,10:25:57[10.39.124.147]:>hey<
+15/08/25,10:25:58[10.39.120.198]:>hey<
+15/08/25,10:26:03[10.39.16.242]:>wait how many people are there<
+15/08/25,10:26:06[10.39.124.147]:>4<
+15/08/25,10:26:08[10.39.120.198]:>4 now i think<
+15/08/25,10:26:09[10.39.16.242]:>:0<
+15/08/25,10:26:16[10.39.124.147]:>are you also in the t building?<
+15/08/25,10:26:35[10.39.126.61]:>147 are u in lang?<
+15/08/25,10:26:48[10.39.16.242]:>___                                                                  _ /__/|__                                                            __//| |__|/_/|__                                                       _/_|_|| |_|___|/_/|__                                                 __/_|___|| |___|____|/_/|__                                           __/_|____|_|| |_|___|_____|/_/|_________________________________________/_|_____|___|| |___|___|__|___|/__/___/___/___/___/___/___/___/___/___/_|_____|____|_|| |_|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|| |___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|_|| |_|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|/<
+15/08/25,10:26:50[10.39.124.147]:>no<
+15/08/25,10:26:51[10.39.126.61]:>wondering because message delay<
+15/08/25,10:26:56[10.39.126.61]:>interesting<
+15/08/25,10:26:56[10.39.120.198]:>bro @242<
+15/08/25,10:26:58[10.39.120.198]:>why<
+15/08/25,10:27:05[10.39.16.242]:>why not<
+15/08/25,10:27:06[10.39.126.61]:>is that 242 then?<
+15/08/25,10:27:22[10.39.124.147]:>depends on where he is<
+15/08/25,10:27:26[10.39.126.61]:>242 lang?<
+15/08/25,10:27:58[10.39.126.61]:>or is that jacky?<
+15/08/25,10:28:04[10.39.124.147]:>all of us but 242 are in the t building<
+15/08/25,10:28:51[10.39.120.198]:>so whatre yall up to<
+15/08/25,10:28:57[10.39.124.147]:>scrolling works really well, good job man<
+15/08/25,10:28:59[10.39.120.198]:>this periods almost over<
+15/08/25,10:29:19[10.39.120.198]:>>[147]:scrolling works really well, good job man                                                                     Yeag Fr<
+15/08/25,10:29:23[10.39.126.61]:>thankyou<
+15/08/25,10:29:41[10.39.124.147]:>yeah<
+15/08/25,10:30:07[10.39.126.61]:>im pretty sure it scrolls to the bottom when someone types a message<
+15/08/25,10:30:17[10.39.124.147]:>testing<
+15/08/25,10:30:18[10.39.124.147]:>it does<
+15/08/25,10:30:23[10.39.126.61]:>so harder to scroll when<
+15/08/25,10:30:28[10.39.126.61]:>*then<
+15/08/25,10:30:39[10.39.124.147]:>yeah<
+15/08/25,10:30:44[10.39.126.61]:>yea does that seem like major issue?<
+15/08/25,10:30:49[10.39.124.147]:>yeah<
+15/08/25,10:30:52[10.39.126.61]:>FUCK<
+15/08/25,10:31:04[10.39.120.198]:>how are newlines coming along @61<
+15/08/25,10:31:05[10.39.124.147]:>maybe make it so that it just highlights the chat bar when a new message is sent<
+15/08/25,10:31:17[10.39.126.61]:>working on it<
+15/08/25,10:31:41[10.39.124.147]:>eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee<
+15/08/25,10:31:55[10.39.120.198]:>longer<
+15/08/25,10:31:57[10.39.126.61]:>should i make your own messages a certan color?<
+15/08/25,10:32:01[10.39.124.147]:>eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee<
+15/08/25,10:32:03[10.39.120.198]:>no<
+15/08/25,10:32:05[10.39.120.198]:>eh<
+15/08/25,10:32:08[10.39.120.198]:>maybe<
+15/08/25,10:32:08[10.39.124.147]:>maybe?<
+15/08/25,10:32:30[10.39.124.147]:>maybe give each person a unique color as long as there arent that many people online<
+15/08/25,10:32:33[10.39.120.198]:>nah<
+15/08/25,10:32:36[10.39.120.198]:>thats too far imo<
+15/08/25,10:32:43[10.39.120.198]:>ok i have an ida<
+15/08/25,10:32:44[10.39.120.198]:>idea<
+15/08/25,10:32:51[10.39.124.147]:>at least make the usernames not 3 digit numbers<
+15/08/25,10:32:52[10.39.126.61]:>im hoping the guy with the russan fort named after him should be able to work on the newline feture<
+15/08/25,10:33:00[10.39.120.198]:>thats me<
+15/08/25,10:33:04[10.39.120.198]:>ill handle that<
+15/08/25,10:33:08[10.39.120.198]:>eventually<
+15/08/25,10:33:17[10.39.126.61]:>gime a sec ill enable the beta uid sys<
+15/08/25,10:33:48[10.39.120.198]:>but uhh how would you feel, @61, about a formating language sort of thing that would let you color your text<
+15/08/25,10:34:42[0.0.0.0]:>Client [ip=[]10.39.120.198, sessionID=TQ5JsIUzhiBdgLdbAAAB] CONNECTED to socketio, sessionID<
+15/08/25,10:34:45[0.0.0.0]:>Client [ip=[]10.39.126.61, sessionID=rHXmh8r_rY4SQq7mAAAD] CONNECTED to socketio, sessionID<
+15/08/25,10:34:45[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=ZnOTbhcgT-NycVg1AAAF] CONNECTED to socketio, sessionID<
+15/08/25,10:34:45[0.0.0.0]:>Client [ip=[]10.39.124.147, sessionID=bNIvcc1buCnRjPDsAAAH] CONNECTED to socketio, sessionID<
+15/08/25,10:34:48[0.0.0.0]:>Client [ip=[]10.39.16.242, sessionID=W1MADGy27yOU7vI_AAAJ] CONNECTED to socketio, sessionID<
+15/08/25,10:34:48[10.39.126.61]:>server backup fellas<
+15/08/25,10:34:54[10.39.126.61]:>hold on<
+15/08/25,10:35:01[10.39.126.61]:>feture not working tho<
+15/08/25,10:35:21[0.0.0.0]:>Client [ip=[]10.39.126.61, sessionID=uohOzq3KsmG74xLaAAAB] CONNECTED to socketio, sessionID<
+15/08/25,10:35:21[0.0.0.0]:>Client [ip=[]10.39.124.147, sessionID=tGddqMyce8u-w6MiAAAD] CONNECTED to socketio, sessionID<
+15/08/25,10:35:21[0.0.0.0]:>Client [ip=[]10.39.16.242, sessionID=Wx0gr0ccvkZXm85RAAAF] CONNECTED to socketio, sessionID<
+15/08/25,10:35:22[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=4jO6Qbh-Ujijp3YzAAAH] CONNECTED to socketio, sessionID<
+15/08/25,10:35:22[0.0.0.0]:>Client [ip=[]10.39.120.198, sessionID=-Gva3qcZ3t9E9QWHAAAJ] CONNECTED to socketio, sessionID<
+15/08/25,10:35:25[10.39.126.61]:>now?<
+15/08/25,10:35:48[0.0.0.0]:>Client [ip=[]10.39.126.61, sessionID=dBkPomDnly3FoiKnAAAB] CONNECTED to socketio, sessionID<
+15/08/25,10:35:48[0.0.0.0]:>Client [ip=[]10.39.16.242, sessionID=QCjkphFI089X66sYAAAD] CONNECTED to socketio, sessionID<
+15/08/25,10:35:48[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=p2N9eUzQRHp1gc3GAAAF] CONNECTED to socketio, sessionID<
+15/08/25,10:35:48[0.0.0.0]:>Client [ip=[]10.39.124.147, sessionID=ywGycKdgoLAHVyiWAAAH] CONNECTED to socketio, sessionID<
+15/08/25,10:35:49[0.0.0.0]:>Client [ip=[]10.39.120.198, sessionID=mDGfiykTar9Qz9HqAAAJ] CONNECTED to socketio, sessionID<
+15/08/25,10:35:53[0.0.0.0]:>Client [ip=[]10.39.16.242, sessionID=NAfP79vViTkQWybxAAAC] CONNECTED to socketio, sessionID<
+15/08/25,10:35:53[0.0.0.0]:>Client [ip=[]10.39.120.198, sessionID=OZKCvQ4W6-1eXGVUAAAD] CONNECTED to socketio, sessionID<
+15/08/25,10:35:54[0.0.0.0]:>Client [ip=[]10.39.126.61, sessionID=qfzAF4SR6ivVGYkiAAAF] CONNECTED to socketio, sessionID<
+15/08/25,10:35:55[10.39.126.61]:>asd<
+15/08/25,10:35:55[0.0.0.0]:>Client [ip=[]10.39.124.147, sessionID=5ksgPXLcuS1w095hAAAH] CONNECTED to socketio, sessionID<
+15/08/25,10:35:56[10.39.126.61]:>asd<
+15/08/25,10:35:56[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=w3cc5SqFhU2B0uEUAAAJ] CONNECTED to socketio, sessionID<
+15/08/25,10:35:57[10.39.126.61]:>k<
+15/08/25,10:36:06[10.39.16.242]:>that would be cool to have different colored messages<
+15/08/25,10:36:18[10.39.120.198]:>ohhhhh<
+15/08/25,10:36:26[10.39.124.147]:>was wondering why my stuff wasnt sending<
+15/08/25,10:36:30[10.39.120.198]:>i sent like 4 messages that are all still brown<
+15/08/25,10:36:32[10.39.126.61]:>you could do that pretty easy with a userscript<
+15/08/25,10:36:33[10.39.120.198]:>none of them sent<
+15/08/25,10:36:50[10.39.16.242]:>also i am in the t building lol<
+15/08/25,10:36:56[10.39.126.61]:>@a98 yeah thats cuz the server was down when you sent them<
+15/08/25,10:37:07[10.39.120.198]:>>:[242]:that would be cool to have different colored messages                                i had something<
+15/08/25,10:37:18[10.39.120.198]:>Unsentmessage: [198]:kinda like how discord does bold and all that<
+15/08/25,10:37:21[0.0.0.0]:>Client [ip=[]10.39.126.61, sessionID=JUZCt5wrYu1BE8cBAAAC] CONNECTED to socketio, sessionID<
+15/08/25,10:37:21[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=gxLJ5hBJNXNyx7V6AAAD] CONNECTED to socketio, sessionID<
+15/08/25,10:37:21[0.0.0.0]:>Client [ip=[]10.39.16.242, sessionID=Sc8cYnbP-gLt8WvzAAAF] CONNECTED to socketio, sessionID<
+15/08/25,10:37:21[0.0.0.0]:>Client [ip=[]10.39.120.198, sessionID=LIbCnw9CH6SpdNclAAAH] CONNECTED to socketio, sessionID<
+15/08/25,10:37:21[0.0.0.0]:>Client [ip=[]10.39.124.147, sessionID=MNUyzcfpHX7grC2FAAAJ] CONNECTED to socketio, sessionID<
+15/08/25,10:37:44[10.39.124.147]:>you leaving this up between passing period, considering your next class is right there?<
+15/08/25,10:37:59[0.0.0.0]:>Client [ip=[]10.39.126.61, sessionID=k4tG59rtreDuDyAnAAAB] CONNECTED to socketio, sessionID<
+15/08/25,10:37:59[0.0.0.0]:>Client [ip=[]10.39.120.198, sessionID=VmLdhEL44ha4hThgAAAD] CONNECTED to socketio, sessionID<
+15/08/25,10:37:59[0.0.0.0]:>Client [ip=[]10.39.124.147, sessionID=8uAic0FCmQY6JgbxAAAF] CONNECTED to socketio, sessionID<
+15/08/25,10:37:59[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=YzFNuHLXb7VtsrnFAAAI] CONNECTED to socketio, sessionID<
+15/08/25,10:37:59[0.0.0.0]:>Client [ip=[]10.39.16.242, sessionID=g7QbEyuASmq9aa2dAAAJ] CONNECTED to socketio, sessionID<
+15/08/25,10:38:40[0.0.0.0]:>Client [ip=[]10.39.126.61, sessionID=CYwfSIEAFynUhndRAAAB] CONNECTED to socketio, sessionID<
+15/08/25,10:38:40[0.0.0.0]:>Client [ip=[]10.39.124.147, sessionID=Szqd3AjtLmgw5xhTAAAD] CONNECTED to socketio, sessionID<
+15/08/25,10:38:40[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=zchRTkPzUA2CbHJ8AAAF] CONNECTED to socketio, sessionID<
+15/08/25,10:38:40[0.0.0.0]:>Client [ip=[]10.39.120.198, sessionID=Jp-JkTkBfDlGr7IjAAAH] CONNECTED to socketio, sessionID<
+15/08/25,10:38:40[0.0.0.0]:>Client [ip=[]10.39.16.242, sessionID=5gum73hCepDpJdhmAAAJ] CONNECTED to socketio, sessionID<
+15/08/25,10:38:44[0.0.0.0]:>Client [ip=[10.39.120.198], sessionID=[Jp-JkTkBfDlGr7IjAAAH] DISCONECTED from socketio, sessionID<
+15/08/25,10:38:48[0.0.0.0]:>Client [ip=[10.39.16.242], sessionID=[5gum73hCepDpJdhmAAAJ] DISCONECTED from socketio, sessionID<
+15/08/25,10:38:48[0.0.0.0]:>Client [ip=[]10.39.16.242, sessionID=7sw8p1sA5jQcUgqYAAAL] CONNECTED to socketio, sessionID<
+15/08/25,10:39:44[10.39.16.242]:>lol if you want to hide what you're doing you can just ctrl r<
+15/08/25,10:39:44[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=H8UaAHS3Px7Ekb6vAAAB] CONNECTED to socketio, sessionID<
+15/08/25,10:39:44[0.0.0.0]:>Client [ip=[]10.39.16.242, sessionID=FecKlWwfdDezu_l4AAAD] CONNECTED to socketio, sessionID<
+15/08/25,10:39:45[0.0.0.0]:>Client [ip=[]10.39.126.61, sessionID=1niEvrQRhxkmHALQAAAF] CONNECTED to socketio, sessionID<
+15/08/25,10:39:46[0.0.0.0]:>Client [ip=[]10.39.124.147, sessionID=SNpozXLNYuSyQeo-AAAH] CONNECTED to socketio, sessionID<
