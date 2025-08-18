@@ -4,6 +4,7 @@ import time, random
 from datetime import datetime
 from flask_socketio import SocketIO, emit
 import lib as lib
+import requests
 
 app = Flask(__name__)
 socketio = SocketIO(app)
@@ -36,6 +37,7 @@ def form_handler():
     print(f'@debug:{time_string}:POSTing new message: >{full_message}< to all users, creater: >{ip}<')
     lib.log(message, ip=ip)
     socketio.emit('new_message', {'message':full_message, 'messageId': messageId, 'username':username})
+    #requests.post('url', json={'response': full_message}, headers={'Content-Type':'application/json'})
     return jsonify({'response': full_message})
 
 @app.route('/io/prefix')
@@ -43,7 +45,6 @@ def send_prefix():
     ip = request.remote_addr
     uid = lib.gen_username(ip)
     return uid
-
 
 @app.route('/io/message-update', methods=['POST'])
 def upadete_handler():

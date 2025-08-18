@@ -14,10 +14,10 @@ console.log('static/main.js is being loaded!');
 
 console.log('static/main.js has been loaded!');
 
-function appendToDiv(msg,divId, messageId=0, color='white', username='None'){
+function appendToDiv(msg,divId, messageId=0, color='white', username='None',settled=false){
     let msgDiv = document.createElement("div");
-    msgDiv.setAttribute('settled','false');
-    console.log('from append to dev: username:'+username)
+    msgDiv.setAttribute('settled',settled);
+    console.log('from append to dev: username:'+username+',settled:'+settled)
     msgDiv.setAttribute('username',username);
     msgDiv.id = messageId;
     msgDiv.style.color = color;
@@ -60,11 +60,12 @@ function genTimestamp(){
 
 // true if you own message
 function resolveMessage(message, messageId,username, div='messages'){
-    console.log('from resolveMessage:username:'+username+', prefix:'+prefix)
-    console.log(username==prefix)
+    console.log('from resolveMessage:username:'+username+', prefix:'+prefix+',messageId:'+messageId)
+    console.log('username==prefix:'+username==prefix)
     if (document.getElementById(messageId) && username == prefix){
+        console.log(`Resolving message`)
         targetMessage = document.getElementById(messageId).remove()
-        appendToDiv(message, div, messageId=messageId, username='u getting this?')
+        appendToDiv(message, div, messageId=messageId, username=username, settled=true)
         console.log(`Resolved message ${messageId}`)
         return true
     }else{

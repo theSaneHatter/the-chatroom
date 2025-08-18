@@ -1857,33 +1857,3 @@
 16/08/25,16:09:14[0.0.0.0]:>Client [ip=[]10.31.1.214, sessionID=kNAtHRxMu7YTWUO-AAAd] CONNECTED to socketio, sessionID<
 16/08/25,16:09:18[10.31.1.214]:>d<
 18/08/25,09:01:05[0.0.0.0]:>Client [ip=[10.31.1.214], sessionID=[kNAtHRxMu7YTWUO-AAAd] DISCONECTED from socketio, sessionID<
-18/08/25,09:01:29[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=SIbNIDJSMKyHTHtwAAAB] CONNECTED to socketio, sessionID<
-18/08/25,09:01:32[127.0.0.1]:>d<
-18/08/25,09:01:34[127.0.0.1]:>e?<
-18/08/25,09:01:36[127.0.0.1]:>d<
-18/08/25,09:03:20[127.0.0.1]:>this is a message<
-18/08/25,09:06:20[0.0.0.0]:>Client [ip=[]10.39.118.4, sessionID=KlI8KEGbfvtCs6JnAAAD] CONNECTED to socketio, sessionID<
-18/08/25,09:09:38[10.39.118.4]:>hi<
-18/08/25,09:09:40[10.39.118.4]:>whos here?<
-18/08/25,09:09:40[10.39.118.4]:>sd<
-18/08/25,09:09:41[10.39.118.4]:>s<
-18/08/25,09:09:41[10.39.118.4]:>s<
-18/08/25,09:09:41[10.39.118.4]:>s<
-18/08/25,09:09:41[10.39.118.4]:>s<
-18/08/25,09:09:42[10.39.118.4]:>s<
-18/08/25,09:09:42[10.39.118.4]:>s<
-18/08/25,09:09:42[10.39.118.4]:>s<
-18/08/25,09:09:42[10.39.118.4]:>s<
-18/08/25,09:09:42[10.39.118.4]:>s<
-18/08/25,09:09:43[10.39.118.4]:>s<
-18/08/25,09:09:43[10.39.118.4]:>s<
-18/08/25,09:09:43[10.39.118.4]:>s<
-18/08/25,09:09:43[10.39.118.4]:>s<
-18/08/25,09:09:44[10.39.118.4]:>s<
-18/08/25,09:17:32[0.0.0.0]:>Client [ip=[10.39.118.4], sessionID=[KlI8KEGbfvtCs6JnAAAD] DISCONECTED from socketio, sessionID<
-18/08/25,10:04:50[0.0.0.0]:>Client [ip=[]10.39.118.4, sessionID=M4XNrLzgCSBlC5VwAAAF] CONNECTED to socketio, sessionID<
-18/08/25,10:08:07[0.0.0.0]:>Client [ip=[]10.39.118.4, sessionID=1871ZxOZn-x7SmcpAAAB] CONNECTED to socketio, sessionID<
-18/08/25,10:08:07[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=6JsnR4uPuixAWc0xAAAD] CONNECTED to socketio, sessionID<
-18/08/25,10:17:01[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[6JsnR4uPuixAWc0xAAAD] DISCONECTED from socketio, sessionID<
-18/08/25,10:17:02[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=yJTSdseRL2BPysuIAAAF] CONNECTED to socketio, sessionID<
-18/08/25,10:17:05[0.0.0.0]:>Client [ip=[]10.39.118.4, sessionID=WfdIHLi258jH7b_SAAAH] CONNECTED to socketio, sessionID<
