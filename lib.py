@@ -5,6 +5,8 @@ import math
 from datetime import datetime
 import subprocess as subp
 import numpy as np
+import json
+import os
 
 def get_time():
     now = datetime.now()
@@ -31,16 +33,18 @@ def backup_logs(logfile='./logs/logs.txt', savefile='./logs/saves'):
 def gen_username(ip):
     last3 = str(ip).split('.')[3]
     username = str(last3)
-    usernameType = 'not-letters'
-    if usernameType == 'letters':
+    zeros = '000'
+    required_zeros = 3 - len(username)
+    username = ''.join(str(zeros[:required_zeros])) + username
+    usernametype = 'not-letters'
+    if usernametype == 'letters':
         last3 = list(last3)
         last3 = np.array(last3, dtype=int)
         letters = 'abcdefghijklmnopqrstuvwxyz'
         letters = np.array(list(letters))
         username = list(letters[last3])
         username = ''.join(username)
-        print(f'Genorated username')
-
+        print(f'genorated username')
     return username
 
 def gen_prefix(ip):
@@ -49,3 +53,12 @@ def gen_prefix(ip):
     prefix = {'username':username, 'time_format':time_format}
 
     return prefix
+
+def load_json(path=os.path.join(os.getcwd(), 'config.json')):
+    with open(path,'r') as file:
+        data = json.load(file)
+        file.close()
+    return data
+
+def forword_to_all(foword_fn,path=os.path.join(os.getcwd())):
+    data = load_json(path=path)
