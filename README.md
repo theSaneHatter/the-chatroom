@@ -23,6 +23,7 @@ Would reccomend using from the stable branch, but everythings krazy rn
 *note: the client who is the sender gets the message also, and uses this feture to varaify that their message was sent*
 *note: there is stuff added to the message oc eg uid*
 
+do u see me?
 ## todo : 
 ### web-ui : 
 - as we all know, the ui sucks, especally with the new lines and moble. 
