@@ -37,7 +37,32 @@ def form_handler():
     print(f'@debug:{time_string}:POSTing new message: >{full_message}< to all users, creater: >{ip}<')
     lib.log(message, ip=ip)
     socketio.emit('new_message', {'message':full_message, 'messageId': messageId, 'username':username})
-    #requests.post('url', json={'response': full_message}, headers={'Content-Type':'application/json'})
+ #   requests.post('http://10.39.126.61:5002/io/node', json={'message': full_message}, headers={'Content-Type':'application/json'})
+    return jsonify({'response': full_message})
+
+@app.route('/io/node', methods=['POST'])
+def node_handler():
+    data = request.get_json()
+    message = data.get('message')
+    message_content = message[15:]
+    messageId = data.get('messageId')
+    uid = message[10:13]
+    now = datetime.now()
+    time_string = now.strftime("%H:%M:%S")
+    ip = request.remote_addr
+    node = lib.gen_username(ip)
+    print(f'@debug:node{node}, uid:{uid}')
+
+    print(f'form relayed from [{ip}]. Content: {message}')
+    if len(message) > 420*10 + len(time_string + uid):
+        print(f'@update: {ip} violated the limit')
+        message = f'user [{username}] is spamming the chat. Here is his IP: [{ip}]'
+    full_message = f'{time_string}:[{uid}>{node}]:{message_content}' # only works for 1 node
+    print(f'@debug:{time_string}:RELAYINGing new message: >{full_message}< relayIP: >{ip}<, apparentUID:{uid}')
+    lib.log(message, ip=ip)
+    print(f'@node_handler():Got a relay request, message:>{message}<')
+    socketio.emit('new_message', {'message':full_message, 'messageId': messageId, 'username':uid})
+    #requests.post('http://10.39.126.61:5000/io/form', json={'message': full_message}, headers={'Content-Type':'application/json'})
     return jsonify({'response': full_message})
 
 @app.route('/io/prefix')
