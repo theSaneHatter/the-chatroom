@@ -2680,22 +2680,3 @@
 19/08/25,10:27:50[10.39.120.187]:>gamestart.go()<
 19/08/25,10:27:56[10.39.120.187]:>ahcrap<
 19/08/25,10:27:59[10.39.120.187]:>didnt load<
-21/08/25,10-23-23[0.0.0.0]:>Client [ip=[]10.39.127.117, sessionID=7I-FCnQgfPo4iUXkAAAB] CONNECTED to socketio, sessionID<
-21/08/25,10-24-33[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=pQw6EBcRliQJ5fVFAAAD] CONNECTED to socketio, sessionID<
-21/08/25,10-24-43[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=XrRJKU2Tr_6hGkkHAAAF] CONNECTED to socketio, sessionID<
-21/08/25,10-24-50[127.0.0.1]:>ello?<
-21/08/25,10-28-06[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[XrRJKU2Tr_6hGkkHAAAF] DISCONECTED from socketio, sessionID<
-21/08/25,10-28-06[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[pQw6EBcRliQJ5fVFAAAD] DISCONECTED from socketio, sessionID<
-21/08/25,10-28-07[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=hjGPEplWYuo_jSiaAAAH] CONNECTED to socketio, sessionID<
-21/08/25,10-28-07[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=5KB1CENQR8mZHR3CAAAJ] CONNECTED to socketio, sessionID<
-21/08/25,10-28-10[0.0.0.0]:>Client [ip=[]10.39.127.117, sessionID=YmiVe2n-tJfqKI54AAAL] CONNECTED to socketio, sessionID<
-21/08/25,10-28-12[0.0.0.0]:>Client [ip=[10.39.127.117], sessionID=[7I-FCnQgfPo4iUXkAAAB] DISCONECTED from socketio, sessionID<
-21/08/25,10-28-26[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[hjGPEplWYuo_jSiaAAAH] DISCONECTED from socketio, sessionID<
-21/08/25,10-28-27[0.0.0.0]:>Client [ip=[]10.39.127.117, sessionID=CPcV3Iw3YqN_1pupAAAN] CONNECTED to socketio, sessionID<
-21/08/25,10-28-30[10.39.127.117]:>dd<
-21/08/25,10-29-34[10.39.127.117]:>what the sigma<
-21/08/25,10-29-58[0.0.0.0]:>Client [ip=[]10.39.16.243, sessionID=Jpr3WNRcqSkiq7NpAAAP] CONNECTED to socketio, sessionID<
-21/08/25,10-30-01[10.39.16.243]:>df<
-21/08/25,10-30-02[10.39.16.243]:>w<
-21/08/25,10-34-15[0.0.0.0]:>Client [ip=[127.0.0.1], sessionID=[5KB1CENQR8mZHR3CAAAJ] DISCONECTED from socketio, sessionID<
-21/08/25,10-34-16[0.0.0.0]:>Client [ip=[]127.0.0.1, sessionID=_s2lBs3LIZeHXlNIAAAR] CONNECTED to socketio, sessionID<
