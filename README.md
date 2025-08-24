@@ -11,17 +11,17 @@
 
 ## structure--how this thing is setup : 
 ### frontend : 
-#### sending : 
+#### sending messages : 
 - website gets message from user
 - sends message via post request
-#### receving : 
+#### receving messages : 
 - website connects to server via websocket asap
 - when there are new messages, websocket sends 'em and website displays 'em
 ### backend : 
 - flask for managing web coms 
-- when receve message via post request, broadcasts the message to all connected clients via sockets
-- *note: the client who is the sender gets the message also, and uses this feture to varaify that their message was sent*
-- *note: there is stuff added to the message oc eg uid*
+- when receve message via post request, flask (using flask socketio) broadcasts the message to all connected clients via sockets
+> *note: the client who is the sender gets the message also, and uses this feture to varaify that their message was sent*
+> *note: there is stuff added to the message oc eg uid*
 
 ## todo : 
 ### web-ui : 
@@ -32,7 +32,7 @@
 - perhaps make encryption using asymmetric keys and signatures, could also allow smaler chat rooms if combined with filtering
 ### backend : 
 - jajaja we all know the prob with importing flask and breaking system packages and stuff for linux users. 
->> so make ts more like a flask app. 
+>> so make ts more like a flask app, so it can be ran with ie flash main.py 
 - windows compatability 
 >> might be some stuff on other compu that was never published for this, but big prob is with system calling for logs and stuff
 
