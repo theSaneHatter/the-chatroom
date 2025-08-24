@@ -20,8 +20,8 @@
 ### backend : 
 - flask for managing web coms 
 - when receve message via post request, flask (using flask socketio) broadcasts the message to all connected clients via sockets
-> *note: the client who is the sender gets the message also, and uses this feture to varaify that their message was sent*
-> *note: there is stuff added to the message oc eg uid*
+> - *note: the client who is the sender gets the message also, and uses this feture to varaify that their message was sent*
+> - *note: there is stuff added to the message oc eg uid*
 
 ## todo : 
 ### web-ui : 
