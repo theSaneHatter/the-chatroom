@@ -29,7 +29,9 @@ def log(message, logfile='./logs/logs.txt', ip='0.0.0.0', encrypt=False, public_
     if encrypt:
         if public_key==None:
             print(f'\033[31m@error:log(): encryption wanted, but no public key given')
+        print(f'@lib:log():appending encrypted message:>{log_msg}<')
         append_encrypted_message(public_key, logfile, log_msg)
+
     else:
         with open(logfile, 'a') as file:
             file.write(f'{timestamp}[{ip}]:>{message}<\n')
@@ -116,9 +118,9 @@ def load_public_key(public_key_path):
         public_key = PublicKey(file.read())
     return public_key
 
-def save_key(file_path, key):
-   #if type(key) != bytes:
-   #    key = bytes(str(key),'utf-8')
+def save_key(file_path, keytes):
+    if type(key) != bytes:
+        key = bytes(str(key),'utf-8')
     with open(file_path, 'wb') as file:
         file.write(key)
     return True
@@ -165,4 +167,6 @@ def append_encrypted_message(public_key, file_path, message):
     if type(message) != bytes:
         message = bytes(message,'utf-8')
     encrypted = encrypt(public_key, message)
+    print(f'@lib:append_encrypted_message():appending enctypted message to {file_path}, encrypted message:>{encrypted}<')
     append_message(file_path, encrypted)
+

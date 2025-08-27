@@ -61,7 +61,7 @@ function genTimestamp(){
 // true if you own message
 function resolveMessage(message, messageId,username, div='messages'){
     console.log('from resolveMessage:username:'+username+', prefix:'+prefix+',messageId:'+messageId)
-    console.log('username==prefix:'+username==prefix)
+    console.log(username==prefix)
     if (document.getElementById(messageId) && username == prefix){
         console.log(`Resolving message`)
         targetMessage = document.getElementById(messageId).remove()

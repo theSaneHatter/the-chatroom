@@ -6,7 +6,8 @@
 ## how do i use?
 > its not really done yet, but...
 ### useage : 
-- py main.py, then you can go to ur local network ip as should by hostname -I at port 5000, and chat. Others can chat too, and everyone will see the messages
+- ```py app.py```, then you can go to ur local network ip as should by hostname -I at port 5000, and chat. Others can chat too, and everyone will see the messages
+- alternativly, use ```flask run```
 - Would reccomend using from the stable branch, but everythings krazy rn
 
 ## structure--how this thing is setup : 
