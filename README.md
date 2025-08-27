@@ -32,9 +32,9 @@
 - perhaps make message filtering 
 - perhaps make encryption using asymmetric keys and signatures, could also allow smaler chat rooms if combined with filtering
 ### backend : 
-- jajaja we all know the prob with importing flask and breaking system packages and stuff for linux users. 
->> so make ts more like a flask app, so it can be ran with ie flash main.py 
 - windows compatability 
 >> might be some stuff on other compu that was never published for this, but big prob is with system calling for logs and stuff
+>>shutil!
+- nodeability from config file and embedded in messages/packets
 
 
