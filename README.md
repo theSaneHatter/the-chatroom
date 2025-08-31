@@ -1,5 +1,5 @@
 # the-chatroom
-## [Grand, offical documentation](docs/documentation.md)
+## <u>[Grand, offical documentation](docs/documentation.md) </u>
 ## tf this is
 - this is a chatroom u can host from ur compu so people can chat using its web ui
 - you shouldnt use this rn because its hella beta
