@@ -15,6 +15,7 @@ import base64
 import nacl.utils
 import nacl.secret
 from nacl.public import PrivateKey, SealedBox, PublicKey
+import socket
 
 def get_time():
     now = datetime.now()
@@ -118,7 +119,7 @@ def load_public_key(public_key_path):
         public_key = PublicKey(file.read())
     return public_key
 
-def save_key(file_path, keytes):
+def save_key(file_path, key):
     if type(key) != bytes:
         key = bytes(str(key),'utf-8')
     with open(file_path, 'wb') as file:
@@ -170,3 +171,14 @@ def append_encrypted_message(public_key, file_path, message):
     print(f'@lib:append_encrypted_message():appending enctypted message to {file_path}, encrypted message:>{encrypted}<')
     append_message(file_path, encrypted)
 
+# networking
+def get_local_ip():
+    try:
+        s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+        s.connect(("8.8.8.8", 80))
+        local_ip = s.getsockname()[0]
+        s.close()
+    except OSError:
+        print(f'\033[33m@lib@get_local_ip:Worning: No network connected\033[0m')
+        return False
+    return local_ip

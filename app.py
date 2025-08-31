@@ -24,6 +24,7 @@ def button_handler():
 @app.route('/io/form', methods=['POST'])
 def form_handler():
     #time.sleep(1)
+    config = lib.load_json()
     public_key_path = os.path.join(os.path.expanduser('~'),'Desktop', 'Keys','the-chatroom','public.key')
     public_key = lib.load_public_key(public_key_path)
     data = request.get_json()
@@ -39,10 +40,15 @@ def form_handler():
         print(f'@update: {ip} violated the limit')
         message = f'user [{username}] is spamming the chat. Here is his IP: [{ip}]'
     full_message = f'{time_string}:[{username}]:{message}'
+    json_message = {'message':message,'timestamp':time_string,'username':username, 'messageId':messageId }
+
     print(f'@debug:{time_string}:POSTing new message: >{full_message}< to all users, creater: >{ip}<')
     lib.log(message, ip=ip, encrypt=True, public_key=public_key)
     socketio.emit('new_message', {'message':full_message, 'messageId': messageId, 'username':username})
- #   requests.post('http://10.39.126.61:5002/io/node', json={'message': full_message}, headers={'Content-Type':'application/json'})
+    print(f'@debug:config:>{config}<')
+    for node in config['nodes']:
+        requests.post(f'http://{node}/io/node', json={'message': full_message}, headers={'Content-Type':'application/json'})
+
     return jsonify({'response': full_message})
 
 @app.route('/io/node', methods=['POST'])
@@ -111,7 +117,9 @@ def handle_event(data):
 
 if __name__ == '__main__':
     lib.backup_logs()
-    socketio.run(app, host='0.0.0.0',port=5000,debug=True, log_output=True)
+    config = lib.load_json()
+    port = config['port'] # to change port, edit config.json
+    socketio.run(app, host='0.0.0.0',port=port,debug=True, log_output=True)
 
 '''
 SETUP:
