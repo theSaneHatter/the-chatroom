@@ -25,8 +25,8 @@ def button_handler():
 def form_handler():
     #time.sleep(1)
     config = lib.load_json()
-    public_key_path = os.path.join(os.path.expanduser('~'),'Desktop', 'Keys','the-chatroom','public.key')
-    public_key = lib.load_public_key(public_key_path)
+    #public_key_path = os.path.join(os.path.expanduser('~'),'Desktop', 'Keys','the-chatroom','public.key')
+    #public_key = lib.load_public_key(public_key_path)
     data = request.get_json()
     message = data.get('message')
     messageId = data.get('messageId')
@@ -43,7 +43,7 @@ def form_handler():
     json_message = {'message':message,'timestamp':time_string,'username':username, 'messageId':messageId }
 
     print(f'@debug:{time_string}:POSTing new message: >{full_message}< to all users, creater: >{ip}<')
-    lib.log(message, ip=ip, encrypt=True, public_key=public_key)
+    lib.log(message, ip=ip, encrypt=False)
     socketio.emit('new_message', {'message':full_message, 'messageId': messageId, 'username':username})
     print(f'@debug:config:>{config}<')
     for node in config['nodes']:
