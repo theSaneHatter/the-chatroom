@@ -7,14 +7,23 @@ import subprocess as subp
 import numpy as np
 import json
 import os
-import cryptography
-from cryptography.hazmat.primitives import serialization
-from cryptography.hazmat.primitives import hashes
-from cryptography.hazmat.primitives.asymmetric import padding
+
+try:
+    import cryptography    
+    from cryptography.hazmat.primitives import serialization
+    from cryptography.hazmat.primitives import hashes
+    from cryptography.hazmat.primitives.asymmetric import padding
+except ModuleNotFoundError: 
+    print('\033[33mWorning:ModuleNotFoundError:Module crypyography not found. Some client-server encryption may be unavalable, and the program may be unstable\033[0m')
+
 import base64
-import nacl.utils
-import nacl.secret
-from nacl.public import PrivateKey, SealedBox, PublicKey
+try:
+    import nacl.utils
+    import nacl.secret
+    from nacl.public import PrivateKey, SealedBox, PublicKey
+except ModuleNotFoundError:
+        print('\033[33mWorning:ModuleNotFoundError:Module nacl not found. Some client-server encryption may be unavalable, and the program may be unstable\033[0m')
+
 import socket
 
 def get_time():
