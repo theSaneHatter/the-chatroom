@@ -43,11 +43,11 @@ def form_handler():
     json_message = {'message':message,'timestamp':time_string,'username':username, 'messageId':messageId }
 
     print(f'@debug:{time_string}:POSTing new message: >{full_message}< to all users, creater: >{ip}<')
-    lib.log(message, ip=ip, encrypt=False)
+    lib.log(message, ip=ip, encrypt=config['encrypt'])
     socketio.emit('new_message', {'message':full_message, 'messageId': messageId, 'username':username})
     print(f'@debug:config:>{config}<')
-    for node in config['nodes']:
-        requests.post(f'http://{node}/io/node', json={'message': full_message}, headers={'Content-Type':'application/json'})
+    # for node in config['nodes']:
+    #     requests.post(f'http://{node}/io/node', json={'message': full_message}, headers={'Content-Type':'application/json'})
 
     return jsonify({'response': full_message})
 
