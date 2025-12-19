@@ -26,6 +26,8 @@ The grand, offical documentation of the-chatroom
 >> might be some stuff on other compu that was never published for this, but big prob is with system calling for logs and stuff
 >>shutil!
 - nodeability from config file and embedded in messages/packets
-
+- idea: run all messages through function/post-processer (pp) first
+>> we could design with fetures e.g. spam detection
+>> pp could also help abstract message length check 
 
  
