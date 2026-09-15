@@ -1,5 +1,30 @@
 # the-chatroom documentation
 The grand, offical documentation of the-chatroom 
+
+## how to run
+#### create venv:
+```bash
+python -m venv venv
+```
+> this creates ur venv for the project
+#### go into venv
+```bash
+source ./venv/bin/actavate.fish 
+```
+> sources venv config files. Replace extension appropreatly if using other shell (like bash)
+#### install pip dependencies 
+```bash
+pip install -r ./static/requirements.txt
+```
+#### finally, exacute the flask app
+```bash
+flash run
+```
+alternativly, run 
+```bash
+python3 app.py
+```
+
 ## structure--how this thing is setup : 
 ### frontend : 
 #### sending messages : 
@@ -13,6 +38,8 @@ The grand, offical documentation of the-chatroom
 - when receve message via post request, flask (using flask socketio) broadcasts the message to all connected clients via sockets
 > - *note: the client who is the sender gets the message also, and uses this feture to varaify that their message was sent*
 > - *note: there is stuff added to the message oc eg uid*
+
+
 
 ## todo : 
 ### web-ui : 
