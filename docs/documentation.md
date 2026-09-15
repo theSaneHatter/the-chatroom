@@ -18,7 +18,7 @@ pip install -r ./static/requirements.txt
 ```
 #### finally, exacute the flask app
 ```bash
-flash run
+flask run
 ```
 alternativly, run 
 ```bash
