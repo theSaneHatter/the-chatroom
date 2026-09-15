@@ -9,7 +9,7 @@ python -m venv venv
 > this creates ur venv for the project
 #### go into venv
 ```bash
-source ./venv/bin/actavate.fish  
+source ./venv/bin/activate.fish  
 ```
 > sources venv config files. Replace extension appropreatly if using other shell (like bash)
 #### install pip dependencies 
