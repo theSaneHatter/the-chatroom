@@ -119,7 +119,7 @@ if __name__ == '__main__':
     lib.backup_logs()
     config = lib.load_json()
     port = config['port'] # to change port, edit config.json
-    socketio.run(app, host='0.0.0.0',port=port,debug=True, log_output=True)
+    socketio.run(app, host='0.0.0.0',port=port,debug=True, log_output=True, allow_unsafe_werkzeug=True) # allow_unsafe_werkzeug=True isnt the best idea but whatev
 
 '''
 SETUP:
